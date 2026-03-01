@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 718 718" width="718" height="718">
+<rect width="718" height="718" rx="10" fill="#ffffff"/>
+<text x="359.0" y="28" text-anchor="middle" fill="#000000" font-size="14" font-weight="bold">🔥 每日热门 (2026-03-02)</text>
+<rect x="24" y="48" width="670" height="32" fill="#f6f8fa" rx="4"/>
+<text x="44.0" y="70" text-anchor="middle" fill="#333333" font-size="11">#</text>
+<text x="174.0" y="70" text-anchor="middle" fill="#333333" font-size="11">项目</text>
+<text x="324.0" y="70" text-anchor="middle" fill="#333333" font-size="11">⭐</text>
+<text x="396.0" y="70" text-anchor="middle" fill="#333333" font-size="11">📈 日增</text>
+<text x="561.0" y="70" text-anchor="middle" fill="#333333" font-size="11">描述</text>
+<line x1="24" y1="80" x2="694" y2="80" stroke="#d0d7de" stroke-width="1"/>
+<text x="44.0" y="96" text-anchor="middle" fill="#000000" font-size="11">1</text>
+<text x="174.0" y="96" text-anchor="middle" fill="#000000" font-size="11">commaai/openpilot</text>
+<text x="324.0" y="96" text-anchor="middle" fill="#000000" font-size="11">60,192</text>
+<text x="396.0" y="96" text-anchor="middle" fill="#000000" font-size="11">+7</text>
+<text x="561.0" y="96" text-anchor="middle" fill="#000000" font-size="11">现在,它正在升级300多辆支持的驾驶</text>
+<text x="561.0" y="110" text-anchor="middle" fill="#000000" font-size="11">员辅助系统.</text>
+<line x1="24" y1="130" x2="694" y2="130" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="142" text-anchor="middle" fill="#000000" font-size="11">2</text>
+<text x="174.0" y="142" text-anchor="middle" fill="#000000" font-size="11">autowarefoundation/autowa...</text>
+<text x="324.0" y="142" text-anchor="middle" fill="#000000" font-size="11">289</text>
+<text x="396.0" y="142" text-anchor="middle" fill="#000000" font-size="11">+4</text>
+<text x="561.0" y="142" text-anchor="middle" fill="#000000" font-size="11">免费自动驾驶汽车堆 -</text>
+<text x="561.0" y="156" text-anchor="middle" fill="#000000" font-size="11">完全开源的ADAS和自动驾驶系统</text>
+<line x1="24" y1="176" x2="694" y2="176" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="188" text-anchor="middle" fill="#000000" font-size="11">3</text>
+<text x="174.0" y="188" text-anchor="middle" fill="#000000" font-size="11">autowarefoundation/autoware</text>
+<text x="324.0" y="188" text-anchor="middle" fill="#000000" font-size="11">11,131</text>
+<text x="396.0" y="188" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="188" text-anchor="middle" fill="#000000" font-size="11">汽车软件 - - 世界上领先的自动驾</text>
+<text x="561.0" y="202" text-anchor="middle" fill="#000000" font-size="11">驶开源软件项目</text>
+<line x1="24" y1="222" x2="694" y2="222" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="234" text-anchor="middle" fill="#000000" font-size="11">4</text>
+<text x="174.0" y="234" text-anchor="middle" fill="#000000" font-size="11">starVLA/starVLA</text>
+<text x="324.0" y="234" text-anchor="middle" fill="#000000" font-size="11">1,211</text>
+<text x="396.0" y="234" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="234" text-anchor="middle" fill="#000000" font-size="11">星VLA:一种类似乐高的代码基础,用</text>
+<text x="561.0" y="248" text-anchor="middle" fill="#000000" font-size="11">于视觉语言行动模型的开发</text>
+<line x1="24" y1="268" x2="694" y2="268" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="280" text-anchor="middle" fill="#000000" font-size="11">5</text>
+<text x="174.0" y="280" text-anchor="middle" fill="#000000" font-size="11">dexmal/dexbotic</text>
+<text x="324.0" y="280" text-anchor="middle" fill="#000000" font-size="11">805</text>
+<text x="396.0" y="280" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="280" text-anchor="middle" fill="#000000" font-size="11">德克斯博特:开源视觉语言行动工具箱</text>
+<line x1="24" y1="314" x2="694" y2="314" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="326" text-anchor="middle" fill="#000000" font-size="11">6</text>
+<text x="174.0" y="326" text-anchor="middle" fill="#000000" font-size="11">2toinf/X-VLA</text>
+<text x="324.0" y="326" text-anchor="middle" fill="#000000" font-size="11">532</text>
+<text x="396.0" y="326" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="326" text-anchor="middle" fill="#000000" font-size="11">[ICLR 2026]</text>
+<text x="561.0" y="340" text-anchor="middle" fill="#000000" font-size="11">官方实施&quot;软向变压器作为可扩展的跨体体视觉语言行</text>
+<line x1="24" y1="360" x2="694" y2="360" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="372" text-anchor="middle" fill="#000000" font-size="11">7</text>
+<text x="174.0" y="372" text-anchor="middle" fill="#000000" font-size="11">seehiong/hdb-price-predictor</text>
+<text x="324.0" y="372" text-anchor="middle" fill="#000000" font-size="11">148</text>
+<text x="396.0" y="372" text-anchor="middle" fill="#000000" font-size="11">+2</text>
+<text x="561.0" y="372" text-anchor="middle" fill="#000000" font-size="11">通过预先训练的XGBoost模型预测</text>
+<text x="561.0" y="386" text-anchor="middle" fill="#000000" font-size="11">新加坡HDB再销售平价的 Strea</text>
+<line x1="24" y1="406" x2="694" y2="406" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="418" text-anchor="middle" fill="#000000" font-size="11">8</text>
+<text x="174.0" y="418" text-anchor="middle" fill="#000000" font-size="11">ApolloAuto/apollo</text>
+<text x="324.0" y="418" text-anchor="middle" fill="#000000" font-size="11">26,452</text>
+<text x="396.0" y="418" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="418" text-anchor="middle" fill="#000000" font-size="11">开放的自动驾驶平台</text>
+<line x1="24" y1="452" x2="694" y2="452" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="464" text-anchor="middle" fill="#000000" font-size="11">9</text>
+<text x="174.0" y="464" text-anchor="middle" fill="#000000" font-size="11">carla-simulator/carla</text>
+<text x="324.0" y="464" text-anchor="middle" fill="#000000" font-size="11">13,616</text>
+<text x="396.0" y="464" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="464" text-anchor="middle" fill="#000000" font-size="11">开源模拟器用于自动驾驶研究.</text>
+<line x1="24" y1="498" x2="694" y2="498" stroke="#d0d7de" stroke-width="0.5"/>
+<text x="44.0" y="510" text-anchor="middle" fill="#000000" font-size="11">10</text>
+<text x="174.0" y="510" text-anchor="middle" fill="#000000" font-size="11">zhulf0804/3D-PointCloud</text>
+<text x="324.0" y="510" text-anchor="middle" fill="#000000" font-size="11">2,886</text>
+<text x="396.0" y="510" text-anchor="middle" fill="#000000" font-size="11">+1</text>
+<text x="561.0" y="510" text-anchor="middle" fill="#000000" font-size="11">关于点云的文件和数据集.</text>
+<line x1="24" y1="544" x2="694" y2="544" stroke="#d0d7de" stroke-width="0.5"/>
+<a xlink:href="https://github.com/lllray/awesome-autonomous-drivin"><text x="694" y="708" text-anchor="end" fill="#57606a" font-size="10">github.com/lllray/awesome-autonom...</text></a>
+</svg>

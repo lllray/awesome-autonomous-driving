@@ -4,7 +4,7 @@
 
 > Curated collection of Autonomous Driving — end-to-end, VLA, BEV perception, planning, world models & more
 
-![Total](https://img.shields.io/badge/Total-3238-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2664k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-3238-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-01-orange?style=flat-square)
+![Total](https://img.shields.io/badge/Total-3296-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2762k%2B-yellow?style=flat-square) ![Today](https://img.shields.io/badge/Today-58-green?style=flat-square) ![Updated](https://img.shields.io/badge/Updated-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -19,44 +19,44 @@
 | Category | Count | Share |
 |----------|------:|------:|
 | 🏎️ End-to-End Driving | 150 | █ 4.6% |
-| 🧠 VLA & Driving Foundation Models | 175 | █ 5.4% |
-| 🌍 World Models & Generation | 42 | █ 1.3% |
-| 👁️ 3D Perception & BEV | 434 | ████ 13.4% |
-| 🎨 Segmentation & Occupancy | 212 | ██ 6.5% |
-| 📐 Motion Prediction & Planning | 147 | █ 4.5% |
-| 🗺️ Mapping & Localization | 141 | █ 4.4% |
-| 🎮 Simulation & Datasets | 662 | ██████ 20.4% |
-| 🏗️ Open-source Platforms | 382 | ███ 11.8% |
+| 🧠 VLA & Driving Foundation Models | 175 | █ 5.3% |
+| 🌍 World Models & Generation | 47 | █ 1.4% |
+| 👁️ 3D Perception & BEV | 442 | ████ 13.4% |
+| 🎨 Segmentation & Occupancy | 214 | ██ 6.5% |
+| 📐 Motion Prediction & Planning | 149 | █ 4.5% |
+| 🗺️ Mapping & Localization | 144 | █ 4.4% |
+| 🎮 Simulation & Datasets | 670 | ██████ 20.3% |
+| 🏗️ Open-source Platforms | 395 | ███ 12.0% |
 | 📡 V2X & Connected Vehicles | 144 | █ 4.4% |
-| 📷 Sensors & Fusion | 85 | █ 2.6% |
-| 📦 Others | 664 | ██████ 20.5% |
+| 📷 Sensors & Fusion | 87 | █ 2.6% |
+| 📦 Others | 679 | ██████ 20.6% |
 
 ---
 
-## 🔥 Daily Trending (2026-03-01)
+## 🔥 Daily Trending (2026-03-02)
 
 | # | Project | ⭐ | 📈 Gain | Description |
 |:-:|---------|---:|-------:|-------------|
-| 1 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 159,977 | 🆕 | Master the command line, in one page |
-| 2 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 117,736 | 🆕 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| 3 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 80,416 | 🆕 | Open Source Continuous File Synchronization |
-| 4 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 73,253 | 🆕 | simple terminal UI for git commands |
-| 5 | [ocornut/imgui](https://github.com/ocornut/imgui) | 71,623 | 🆕 | Dear ImGui: Bloat-free Graphical User interface for C++ with |
-| 6 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70,768 | 🆕 | Protocol Buffers - Google's data interchange format |
-| 7 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 70,633 | 🆕 | OBS Studio - Free and open source software for live streamin |
-| 8 | [commaai/openpilot](https://github.com/commaai/openpilot) | 60,185 | 🆕 | openpilot is an operating system for robotics. Currently, it |
-| 9 | [sharkdp/bat](https://github.com/sharkdp/bat) | 57,436 | 🆕 | A cat(1) clone with wings. |
-| 10 | [jgm/pandoc](https://github.com/jgm/pandoc) | 42,306 | 🆕 | Universal markup converter |
-| 11 | [ray-project/ray](https://github.com/ray-project/ray) | 41,529 | 🆕 | Ray is an AI compute engine. Ray consists of a core distribu |
-| 12 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 39,043 | 🆕 | ShellCheck, a static analysis tool for shell scripts |
-| 13 | [mattermost/mattermost-server](https://github.com/mattermost/mattermost) | 35,534 | 🆕 | Mattermost is an open source platform for secure collaborati |
-| 14 | [jbarlow83/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | 32,790 | 🆕 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowi |
-| 15 | [lutzroeder/Netron](https://github.com/lutzroeder/netron) | 32,502 | 🆕 | Visualizer for neural network, deep learning and machine lea |
-| 16 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 28,757 | 🆕 | Python sample codes and textbook for robotics algorithms. |
-| 17 | [gabime/spdlog](https://github.com/gabime/spdlog) | 28,399 | 🆕 | Fast C++ logging library. |
-| 18 | [fastai/fastai](https://github.com/fastai/fastai) | 27,875 | 🆕 | The fastai deep learning library |
-| 19 | [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 27,225 | 🆕 | A code-searching tool similar to ack, but faster. |
-| 20 | [samuelcolvin/pydantic](https://github.com/pydantic/pydantic) | 27,055 | 🆕 | Data validation using Python type hints |
+| 1 | [commaai/openpilot](https://github.com/commaai/openpilot) | 60,192 | +7 | openpilot is an operating system for robotics. Currently, it |
+| 2 | [autowarefoundation/autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) | 289 | +4 | Free self-driving car stack - fully open-source ADAS and aut |
+| 3 | [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,131 | +2 | Autoware - the world's leading open-source software project  |
+| 4 | [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,211 | +2 | StarVLA: A Lego-like Codebase for Vision-Language-Action Mod |
+| 5 | [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 805 | +2 | Dexbotic: Open-Source Vision-Language-Action Toolbox |
+| 6 | [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 532 | +2 | [ICLR 2026] The offical Implementation of "Soft-Prompted Tra |
+| 7 | [seehiong/hdb-price-predictor](https://github.com/seehiong/hdb-price-predictor) | 148 | +2 | A Streamlit web app that predicts Singapore HDB resale flat  |
+| 8 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,452 | +1 | An open autonomous driving platform |
+| 9 | [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,616 | +1 | Open-source simulator for autonomous driving research. |
+| 10 | [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,886 | +1 | Papers and Datasets  about Point Cloud. |
+| 11 | [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,612 | +1 | A curated list of state-of-the-art research in embodied AI,  |
+| 12 | [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,001 | +1 | VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Lan |
+| 13 | [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,726 | +1 | [CVPR 2025] Open-source, End-to-end, Vision-Language-Action  |
+| 14 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,690 | +1 | A curated list of awesome LLM/VLM/VLA/World Model for Autono |
+| 15 | [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,438 | +1 | Python sample codes and documents about Autonomous vehicle c |
+| 16 | [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,322 | +1 | 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ |
+| 17 | [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,263 | +1 | A comprehensive list of papers for the definition of World M |
+| 18 | [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 904 | +1 | RynnVLA-002: A Unified Vision-Language-Action and World Mode |
+| 19 | [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 694 | +1 | InternRobotics' open platform for building generalized navig |
+| 20 | [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 658 | +1 | 🔥 SpatialVLA: a spatial-enhanced vision-language-action mode |
 
 ---
 
@@ -64,16 +64,16 @@
 
 - [🏎️ End-to-End Driving](#e2e) (150)
 - [🧠 VLA & Driving Foundation Models](#vla) (175)
-- [🌍 World Models & Generation](#world-model) (42)
-- [👁️ 3D Perception & BEV](#perception) (434)
-- [🎨 Segmentation & Occupancy](#segmentation) (212)
-- [📐 Motion Prediction & Planning](#prediction) (147)
-- [🗺️ Mapping & Localization](#mapping) (141)
-- [🎮 Simulation & Datasets](#simulation) (662)
-- [🏗️ Open-source Platforms](#platform) (382)
+- [🌍 World Models & Generation](#world-model) (47)
+- [👁️ 3D Perception & BEV](#perception) (442)
+- [🎨 Segmentation & Occupancy](#segmentation) (214)
+- [📐 Motion Prediction & Planning](#prediction) (149)
+- [🗺️ Mapping & Localization](#mapping) (144)
+- [🎮 Simulation & Datasets](#simulation) (670)
+- [🏗️ Open-source Platforms](#platform) (395)
 - [📡 V2X & Connected Vehicles](#v2x) (144)
-- [📷 Sensors & Fusion](#sensor) (85)
-- [📦 Others](#other) (664)
+- [📷 Sensors & Fusion](#sensor) (87)
+- [📦 Others](#other) (679)
 
 ---
 
@@ -83,7 +83,7 @@
 |---------|---:|:--------:|-------------|
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 24,485 | Python | The open source developer platform to build AI agents and models with  |
 | [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) | 3,532 | - | [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving |
-| [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,725 | Python | [CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for  |
+| [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,726 | Python | [CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for  |
 | [marsauto/europilot](https://github.com/marsauto/europilot) | 1,518 | Jupyter Notebook | A toolkit for controlling Euro Truck Simulator 2 with the end-to-end d |
 | [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) | 1,512 | Python | [PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion f |
 | [hustvl/MapTR](https://github.com/hustvl/MapTR) | 1,460 | Python | [ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and |
@@ -117,7 +117,7 @@
 | [OpenDriveLab/DriveAdapter](https://github.com/OpenDriveLab/DriveAdapter) | 244 | Python | [ICCV 2023 Oral] A New Paradigm for End-to-end Autonomous Driving to A |
 | [atonderski/neuro-ncap](https://github.com/atonderski/neuro-ncap) | 243 | Python | NeuroNCAP benchmark for end-to-end autonomous driving |
 | [Pranav-chib/End-to-End-Autonomous-Driving](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving) | 241 | - | A collection of recent resources on End-to-End Autonomous Driving [sur |
-| [hustvl/DiffusionDriveV2](https://github.com/hustvl/DiffusionDriveV2) | 240 | Python | DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusi |
+| [hustvl/DiffusionDriveV2](https://github.com/hustvl/DiffusionDriveV2) | 241 | Python | DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusi |
 | [naokishibuya/car-behavioral-cloning](https://github.com/naokishibuya/car-behavioral-cloning) | 234 | Python | Built and trained a convolutional network for end-to-end driving in a  |
 | [liyingyanUCAS/WoTE](https://github.com/liyingyanUCAS/WoTE) | 199 | Python | (ICCV2025) End-to-End Driving with Online Trajectory Evaluation via BE |
 | [Thinklab-SJTU/DriveTransformer](https://github.com/Thinklab-SJTU/DriveTransformer) | 190 | Python | [ICLR 2025] DriveTransformer: Unified Transformer for Scalable End-to- |
@@ -128,33 +128,33 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,611 | - | A curated list of state-of-the-art research in embodied AI, focusing o |
+| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,612 | - | A curated list of state-of-the-art research in embodied AI, focusing o |
 | [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) | 2,376 | Python | GigaBrain-0: A World Model-Powered Vision-Language-Action Model |
-| [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,000 | Python | VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Acti |
-| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,689 | - | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Drivi |
+| [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,001 | Python | VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Acti |
+| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,690 | - | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Drivi |
 | [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) | 1,397 | Python | Re-implementation of pi0 vision-language-action (VLA) model from Physi |
 | [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) | 1,251 | HTML | [ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering |
-| [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,209 | Python | StarVLA: A Lego-like Codebase for Vision-Language-Action Model Develop |
+| [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,211 | Python | StarVLA: A Lego-like Codebase for Vision-Language-Action Model Develop |
 | [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) | 1,181 | Python | Official PyTorch implementation of VoxFormer [CVPR 2023 Highlight] |
-| [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 903 | Python | RynnVLA-002: A Unified Vision-Language-Action and World Model |
+| [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 904 | Python | RynnVLA-002: A Unified Vision-Language-Action and World Model |
 | [Robbyant/lingbot-vla](https://github.com/Robbyant/lingbot-vla) | 857 | Python | A Pragmatic VLA Foundation Model |
-| [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 803 | Python | Dexbotic: Open-Source Vision-Language-Action Toolbox |
+| [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 805 | Python | Dexbotic: Open-Source Vision-Language-Action Toolbox |
 | [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) | 802 | - | 🚀🚀🚀A collection of some awesome public projects about Large Language M |
 | [EmbodiedMind/VLA-Diffusion-Policy-Robotics](https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics) | 764 | - | Awesome collection of resources and papers on Diffusion Models for Rob |
-| [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 693 | Jupyter Notebook | InternRobotics' open platform for building generalized navigation foun |
-| [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 657 | Python | 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is  |
+| [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 694 | Jupyter Notebook | InternRobotics' open platform for building generalized navigation foun |
+| [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 658 | Python | 🔥 SpatialVLA: a spatial-enhanced vision-language-action model that is  |
 | [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) | 635 | Python | PyTorch Implementation of EmerNeRF: Emergent Spatial-Temporal Scene De |
 | [UMass-Embodied-AGI/3D-VLA](https://github.com/UMass-Embodied-AGI/3D-VLA) | 622 | Python | [ICML 2024] 3D-VLA: A 3D Vision-Language-Action Generative World Model |
 | [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | 621 | Python | [AAAI 2026] OpenDriveVLA: Towards End-to-end Autonomous Driving with L |
 | [MIV-XJTU/FSDrive](https://github.com/MIV-XJTU/FSDrive) | 612 | Python | [NeurIPS 2025 spotlight] Official implementation for "FutureSightDrive |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | 546 | - | Vision–Language–Action models for Autonomous Driving (VLA4AD) resource |
 | [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) | 534 | - | A Survey on Reinforcement Learning of Vision-Language-Action Models fo |
-| [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 530 | C++ | [ICLR 2026] The offical Implementation of "Soft-Prompted Transformer a |
-| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 525 | Python | [RSS'25] This repository is the implementation of "NaVILA: Legged Robo |
-| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 501 | - | A comprehensive list of excellent research papers, models, datasets, a |
+| [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 532 | C++ | [ICLR 2026] The offical Implementation of "Soft-Prompted Transformer a |
+| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 526 | Python | [RSS'25] This repository is the implementation of "NaVILA: Legged Robo |
+| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 500 | - | A comprehensive list of excellent research papers, models, datasets, a |
 | [OpenBMB/DeepThinkVLA](https://github.com/OpenBMB/DeepThinkVLA) | 493 | Python | DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action |
 | [Psi-Robot/DexGraspVLA](https://github.com/Psi-Robot/DexGraspVLA) | 475 | Python | [AAAI'26 Oral] DexGraspVLA: A Vision-Language-Action Framework Towards |
-| [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) | 454 | - | Paper list in the survey: A Survey on Vision-Language-Action Models: A |
+| [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) | 455 | - | Paper list in the survey: A Survey on Vision-Language-Action Models: A |
 | [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) | 424 | Python | 3D Occupancy Prediction Benchmark in Autonomous Driving |
 | [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | 413 | Python | [NeurIPS 2025] AutoVLA: A Vision-Language-Action Model for End-to-End  |
 | [microsoft/CogACT](https://github.com/microsoft/CogACT) | 406 | Python | A Foundational Vision-Language-Action Model for Synergizing Cognition  |
@@ -176,9 +176,11 @@
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
 | [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | 1,856 | - | Collect some World Models for Autonomous Driving (and Robotic, etc.) p |
-| [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,262 | - | A comprehensive list of papers for the definition of World Models and  |
+| [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,263 | - | A comprehensive list of papers for the definition of World Models and  |
+| [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) | 1,162 | Python | [ICLR24] Official implementation of the paper “MagicDrive: Street View |
 | [OpenDriveLab/Vista](https://github.com/OpenDriveLab/Vista) | 855 | Python | [NeurIPS 2024] A Generalizable World Model for Autonomous Driving |
 | [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) | 830 | HTML | 🌐 3D and 4D World Modeling: A Survey |
+| [worldbench/survey](https://github.com/worldbench/awesome-3d-4d-world-models) | 830 | HTML | 🌐 3D and 4D World Modeling: A Survey |
 | [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) | 790 | Python | Notably, GenAD & Dataset Survey. A Collection of Foundation Driving Mo |
 | [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) | 730 | C++ | Real-Time 3D Semantic Reconstruction from 2D data |
 | [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) | 692 | Python | [ICCV 2025] Official implementation of the paper “MagicDrive-V2: High- |
@@ -196,9 +198,12 @@
 | [Kevin-thu/Epona](https://github.com/Kevin-thu/Epona) | 300 | Python | Official Code for Epona: Autoregressive Diffusion World Model for Auto |
 | [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD) | 271 | - | A comprehensive survey of forging vision foundation models for autonom |
 | [wenyuqing/panacea](https://github.com/wenyuqing/panacea) | 253 | Python | [CVPR2024] Official Repository of Paper "Panacea: Panoramic and Contro |
-| [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) | 237 | Python | [AAAI 2025] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driv |
-| [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) | 236 | Python | Code for "DrivingWorld: Constructing World Model for Autonomous Drivin |
+| [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) | 238 | Python | [AAAI 2025] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driv |
+| [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) | 237 | Python | Code for "DrivingWorld: Constructing World Model for Autonomous Drivin |
 | [worldbench/WorldLens](https://github.com/worldbench/WorldLens) | 183 | Python | [CVPR 2026] WorldLens: Full-Spectrum Evaluations of Driving World Mode |
+| [lzzzzzm/II-World](https://github.com/lzzzzzm/II-World) | 174 | Python | [ICCV2025] II-World: Intra-Inter Tokenization for Efficient Dynamic 4D |
+| [valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel) | 148 | Jupyter Notebook | VaViM and VaVAM: Autonomous Driving through Video Generative Modeling  |
+| [Sta8is/DINO-Foresight](https://github.com/Sta8is/DINO-Foresight) | 146 | Python | [NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into |
 | [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) | 122 | Python | [ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for  |
 | [zhou13/holicity](https://github.com/zhou13/holicity) | 92 | Python | HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structur |
 | [chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving](https://github.com/chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving) | 87 | - | Awesome Papers about World Models in Autonomous Driving |
@@ -210,11 +215,6 @@
 | [shanpoyang654/InstaDrive](https://github.com/shanpoyang654/InstaDrive) | 34 | Python | 【ICCV 2025】 InstaDrive: Instance-Aware Driving World Models for Realis |
 | [DeepLabc/AutoDrive_NeRF](https://github.com/DeepLabc/AutoDrive_NeRF) | 31 | - | This repository is used to collect NeRF papers on autonomous driving |
 | [Chenwei-Liang/CoDa-4DGS](https://github.com/Chenwei-Liang/CoDa-4DGS) | 28 | Python | [ICCV 2025] CoDa-4DGS: Dynamic Gaussian Splatting with Context and Def |
-| [turingmotors/ACT-Bench](https://github.com/turingmotors/ACT-Bench) | 26 | Python | ACT-Bench  – We Evaluate Action-Fidelity of World Models for Autonomou |
-| [vita-epfl/MAD-World-Model-Code](https://github.com/vita-epfl/MAD-World-Model-Code) | 22 | - | Official implementation of MAD: Motion Appearance Decoupling for effic |
-| [Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization](https://github.com/Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization) | 22 | Jupyter Notebook | Visual inspection of bridges is customarily used to identify and evalu |
-| [anubhav0fnu/Synthetic-video-generation-for-Autonomous-cars](https://github.com/anubhav0fnu/Synthetic-video-generation-for-Autonomous-cars) | 15 | Python | A huge challenge for autonomous vehicles(ACs) is to have a dataset tha |
-| [zhanghm1995/awesome-world-models-for-AD](https://github.com/zhanghm1995/awesome-world-models-for-AD) | 12 | - | A curated list of awesome world models for autonomous driving (continu |
 
 ---
 
@@ -225,20 +225,23 @@
 | [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) | 5,466 | Python | OpenPCDet Toolbox for LiDAR-based 3D Object Detection. |
 | [sshaoshuai/PCDet](https://github.com/open-mmlab/OpenPCDet) | 5,466 | Python | OpenPCDet Toolbox for LiDAR-based 3D Object Detection. |
 | [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) | 4,330 | Python | [ECCV 2022] This is the official implementation of BEVFormer, a camera |
-| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,741 | - | Tooling for professional robotic development in C++ and Python with a  |
+| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,740 | - | Tooling for professional robotic development in C++ and Python with a  |
+| [protontypes/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,740 | - | Tooling for professional robotic development in C++ and Python with a  |
 | [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) | 3,030 | Python | [ICRA'23] BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird' |
-| [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,885 | Python | Papers and Datasets  about Point Cloud. |
+| [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,886 | Python | Papers and Datasets  about Point Cloud. |
 | [CesiumGS/3d-tiles](https://github.com/CesiumGS/3d-tiles) | 2,411 | Batchfile | Specification for streaming massive heterogeneous 3D geospatial datase |
 | [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) | 2,366 | C++ | Advanced implementation of LOAM |
 | [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS) | 2,045 | C++ | GAAS is an open-source program designed for fully autonomous VTOL(a.k. |
 | [facebookresearch/votenet](https://github.com/facebookresearch/votenet) | 1,747 | Python | Deep Hough Voting for 3D Object Detection in Point Clouds |
 | [V2AI/Det3D](https://github.com/V2AI/Det3D) | 1,559 | Python | World's first general purpose 3D object detection codebse. |
+| [poodarchu/Det3D](https://github.com/V2AI/Det3D) | 1,559 | Python | World's first general purpose 3D object detection codebse. |
 | [yangyanli/PointCNN](https://github.com/yangyanli/PointCNN) | 1,428 | Python | PointCNN: Convolution On X-Transformed Points (NeurIPS 2018) |
 | [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) | 1,356 | Python | [IEEE T-PAMI 2023] Awesome BEV perception research and cookbook for al |
 | [maudzung/Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) | 1,318 | Python | The PyTorch Implementation based on YOLOv4 of the paper: "Complex-YOLO |
 | [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) | 1,294 | C++ | :taxi: Fast and robust clustering of point clouds generated with a Vel |
 | [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) | 1,228 | - | 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, |
 | [maudzung/SFA3D](https://github.com/maudzung/SFA3D) | 1,122 | Python | Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Cl |
+| [maudzung/Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/SFA3D) | 1,122 | Python | Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Cl |
 | [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) | 1,098 | - | Awesome papers about Multi-Camera 3D Object Detection and Segmentation |
 | [neka-nat/cupoch](https://github.com/neka-nat/cupoch) | 1,038 | C++ | Robotics with GPU computing |
 | [PRBonn/lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) | 1,026 | Python | Semantic and Instance Segmentation of LiDAR point clouds for autonomou |
@@ -259,9 +262,6 @@
 | [beedotkiran/Lidar_For_AD_references](https://github.com/beedotkiran/Lidar_For_AD_references) | 772 | - | A list of references on lidar point cloud processing for autonomous dr |
 | [4DVLab/Vision-Centric-BEV-Perception](https://github.com/4DVLab/Vision-Centric-BEV-Perception) | 737 | - | Vision-Centric BEV Perception: A Survey |
 | [vvincenttttt/Awesome-3D-Object-Detection](https://github.com/vvincenttttt/Awesome-3D-Object-Detection) | 684 | - | Papers, code and datasets about deep learning for 3D Object Detection. |
-| [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) | 668 | Python | [ICCV 2023] OccNet: Scene as Occupancy |
-| [mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2) | 647 | Python | (ICLR) Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Auton |
-| [heremaps/pptk](https://github.com/heremaps/pptk) | 635 | C++ | The Point Processing Toolkit (pptk) is a Python package for visualizin |
 
 ---
 
@@ -270,7 +270,7 @@
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
 | [heartexlabs/label-studio](https://github.com/HumanSignal/label-studio) | 26,559 | TypeScript | Label Studio is a multi-type data labeling and annotation tool with st |
-| [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | 9,308 | Python | Easy-to-use image segmentation library with awesome pre-trained model  |
+| [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | 9,307 | Python | Easy-to-use image segmentation library with awesome pre-trained model  |
 | [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) | 4,500 | Python | [CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving |
 | [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) | 3,067 | C++ | Universal grid map library for mobile robotic mapping |
 | [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) | 3,035 | - | A paper list of lane detection. |
@@ -298,7 +298,7 @@
 | [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) | 494 | Python | [ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection |
 | [vietanhdev/open-adas](https://github.com/vietanhdev/open-adas) | 487 | C++ | An open source advanced driver assistance system (ADAS) that uses Jets |
 | [aliyun/conditional-lane-detection](https://github.com/aliyun/conditional-lane-detection) | 417 | Python |  |
-| [pmj110119/RenderOcc](https://github.com/pmj110119/RenderOcc) | 410 | Python | [ICRA 2024] RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D  |
+| [pmj110119/RenderOcc](https://github.com/pmj110119/RenderOcc) | 411 | Python | [ICRA 2024] RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D  |
 | [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) | 400 | Python | 3D occupancy |
 | [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) | 400 | Python | [ECCV 2024] Fully Sparse 3D Occupancy Prediction & RayIoU Evaluation M |
 | [zhangyp15/OccFormer](https://github.com/zhangyp15/OccFormer) | 395 | Python | [ICCV 2023] OccFormer: Dual-path Transformer for Vision-based 3D Seman |
@@ -320,9 +320,11 @@
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | 3,182 | Python | A minimalist environment for decision-making in autonomous driving |
 | [eleurent/highway-env](https://github.com/Farama-Foundation/HighwayEnv) | 3,182 | Python | A minimalist environment for decision-making in autonomous driving |
 | [zhm-real/MotionPlanning](https://github.com/zhm-real/MotionPlanning) | 2,643 | Python | Motion planning algorithms commonly used on autonomous vehicles. (path |
+| [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) | 2,467 | C# | Central repository for tools, tutorials, resources, and documentation  |
 | [ompl/ompl](https://github.com/ompl/ompl) | 1,965 | C++ | The Open Motion Planning Library (OMPL) |
 | [karlkurzer/path_planner](https://github.com/karlkurzer/path_planner) | 1,868 | C++ | Hybrid A* Path Planner for the KTH Research Concept Vehicle |
 | [jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1,662 | TeX | A selection of state-of-the-art research materials on trajectory predi |
+| [jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1,662 | TeX | A selection of state-of-the-art research materials on trajectory predi |
 | [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) | 1,282 | C++ | An optimal trajectory planner considering distinctive topologies for m |
 | [agrimgupta92/sgan](https://github.com/agrimgupta92/sgan) | 905 | Python | Code for "Social GAN: Socially Acceptable Trajectories with Generative |
 | [woven-by-toyota/l5kit](https://github.com/woven-by-toyota/l5kit) | 884 | Python | L5Kit - https://woven.toyota |
@@ -354,8 +356,6 @@
 | [jchengai/gpir](https://github.com/jchengai/gpir) | 252 | C++ | [ICRA'22] Real-Time Trajectory Planning for Autonomous Driving with Ga |
 | [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) | 252 | Python | Tactics2D: A Reinforcement Learning Environment Library with Generativ |
 | [nachiket92/PGP](https://github.com/nachiket92/PGP) | 246 | Python | Code for "Multimodal Trajectory Prediction Conditioned on Lane-Graph T |
-| [TUMFTM/EthicalTrajectoryPlanning](https://github.com/TUMFTM/EthicalTrajectoryPlanning) | 245 | Python | An Ethical Trajectory Planning Algorithm for Autonomous Vehicles |
-| [personalrobotics/aikido](https://github.com/personalrobotics/aikido) | 228 | C++ | Artificial Intelligence for Kinematics, Dynamics, and Optimization |
 
 ---
 
@@ -378,8 +378,9 @@
 | [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) | 1,789 | - | A curated list of radar datasets, detection, tracking and fusion |
 | [laboshinl/loam_velodyne](https://github.com/laboshinl/loam_velodyne) | 1,749 | C++ | Laser Odometry and Mapping (Loam) is a realtime method for state estim |
 | [ANYbotics/elevation_mapping](https://github.com/ANYbotics/elevation_mapping) | 1,714 | C++ | Robot-centric elevation mapping for rough terrain navigation |
-| [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,437 | Python | Python sample codes and documents about Autonomous vehicle control alg |
+| [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,438 | Python | Python sample codes and documents about Autonomous vehicle control alg |
 | [wh200720041/floam](https://github.com/wh200720041/floam) | 1,140 | C++ | Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/ |
+| [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) | 926 | C++ |  |
 | [ucla-vision/xivo](https://github.com/ucla-vision/xivo) | 889 | C++ | X Inertial-aided Visual Odometry |
 | [carlosmccosta/dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) | 871 | C++ | Point cloud registration pipeline for robot localization and 3D percep |
 | [MOLAorg/mola](https://github.com/MOLAorg/mola) | 869 | C++ | A Modular Optimization framework for Localization and mApping (MOLA) |
@@ -389,10 +390,12 @@
 | [rpng/MINS](https://github.com/rpng/MINS) | 668 | C++ | An efficient and robust multisensor-aided inertial navigation system w |
 | [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | 662 | Matlab | MATLAB sample codes for mobile robot navigation |
 | [Yixin-F/better_fastlio2](https://github.com/Yixin-F/better_fastlio2) | 651 | C++ | Postgraduate Thesis: fast_lio_sam + dynamic removal (T-GRS 2024) + mul |
+| [karanchawla/GPS_IMU_Kalman_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) | 645 | C++ | Fusing GPS, IMU and Encoder sensors for accurate state estimation. |
 | [commaai/comma2k19](https://github.com/commaai/comma2k19) | 631 | Jupyter Notebook | A driving dataset for the development and validation of fused pose est |
 | [wh200720041/iscloam](https://github.com/wh200720041/iscloam) | 601 | C++ | Intensity Scan Context based full SLAM implementation for autonomous d |
 | [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) | 507 | C++ | Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrin |
 | [giacomo-b/CppRobotics](https://github.com/giacomo-b/CppRobotics) | 492 | C++ | Header-only C++ library for robotics, control, and path planning algor |
+| [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) | 468 | Python | UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in |
 | [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) | 433 | Python | Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023) |
 | [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) | 410 | - | A list of papers about point cloud based place recognition, also known |
 | [izhengfan/se2lam](https://github.com/izhengfan/se2lam) | 409 | C++ | (ICRA 2019) Visual-Odometric On-SE(2) Localization and Mapping |
@@ -400,9 +403,6 @@
 | [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) | 367 | Python | [ICLR 2024] Map Learning with Lane Segment for Autonomous Driving |
 | [berndpfrommer/tagslam](https://github.com/berndpfrommer/tagslam) | 346 | C++ | SLAM with apriltags |
 | [TUC-ProAut/libRSF](https://github.com/TUC-ProAut/libRSF) | 329 | C++ | A robust sensor fusion library for online localization. |
-| [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) | 283 | Python | Classification - Machine Learning This is ‘Classification’ tutorial wh |
-| [ZJU-Robotics-Lab/GEM](https://github.com/ZJU-Robotics-Lab/GEM) | 277 | C++ | GEM: Online Globally consistent dense elevation mapping for unstructur |
-| [chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020) | 272 | Java | NOTICE This repository contains the public FTC SDK for the SKYSTONE (2 |
 
 ---
 
@@ -411,7 +411,8 @@
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
 | [microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | C++ | Open source simulator for autonomous vehicles built on Unreal Engine / |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,615 | C++ | Open-source simulator for autonomous driving research. |
+| [Microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | C++ | Open source simulator for autonomous vehicles built on Unreal Engine / |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,616 | C++ | Open-source simulator for autonomous driving research. |
 | [robmarkcole/satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/techniques) | 10,034 | - | Techniques for deep learning with satellite & aerial imagery |
 | [commaai/research](https://github.com/commaai/research) | 4,123 | Python | dataset and code for 2016 paper "Learning a Driving Simulator" |
 | [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) | 3,980 | C# | A self-driving car simulator built with Unity |
@@ -419,6 +420,7 @@
 | [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) | 3,864 | - | 🛰️ List of satellite image training datasets with annotations for comp |
 | [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) | 3,241 | Python | Waymo Open Dataset |
 | [nutonomy/nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) | 2,676 | Python | The devkit of the nuScenes dataset. |
+| [simbody/simbody](https://github.com/simbody/simbody) | 2,497 | C++ | High-performance C++ multibody dynamics/physics library for simulating |
 | [lgsvl/simulator](https://github.com/lgsvl/simulator) | 2,424 | C# | A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles |
 | [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) | 2,413 | Jupyter Notebook | Scenarios, tutorials and demos for Autonomous Driving |
 | [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) | 1,819 | Python | (IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-O |
@@ -429,6 +431,7 @@
 | [flow-project/flow](https://github.com/flow-project/flow) | 1,177 | Python | Computational framework for reinforcement learning in traffic control |
 | [aitorzip/DeepGTAV](https://github.com/aitorzip/DeepGTAV) | 1,174 | C++ | A plugin for GTAV that transforms it into a vision-based self-driving  |
 | [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) | 1,145 | Python | A generalized framework for prototyping full-stack cooperative driving |
+| [metadriverse/metadrive](https://github.com/metadriverse/metadrive) | 1,112 | Python | MetaDrive: Lightweight driving simulator for everyone |
 | [huawei-noah/SMARTS](https://github.com/huawei-noah/SMARTS) | 1,108 | Python | Scalable Multi-Agent RL Training School for Autonomous Driving |
 | [GENIVI/CANdevStudio](https://github.com/GENIVI/CANdevStudio) | 1,105 | C++ | Development tool for CAN bus simulation |
 | [waymo-research/waymax](https://github.com/waymo-research/waymax) | 1,040 | Python | A JAX-based simulator for autonomous driving research. |
@@ -447,9 +450,6 @@
 | [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) | 854 | Python | Long Range 3D Perception - VoxelNeXt (CVPR 2023) |
 | [tomas789/kitti2bag](https://github.com/tomas789/kitti2bag) | 805 | Python | Convert KITTI dataset to ROS bag file the easy way! |
 | [bethesirius/ChosunTruck](https://github.com/bethesirius/ChosunTruck) | 736 | Python | Euro Truck Simulator 2 autonomous driving solution |
-| [hasanirtiza/Pedestron](https://github.com/hasanirtiza/Pedestron) | 703 | Python | [Pedestron] Generalizable Pedestrian Detection: The Elephant In The Ro |
-| [uzh-rpg/rpg_esim](https://github.com/uzh-rpg/rpg_esim) | 697 | C | ESIM: an Open Event Camera Simulator |
-| [OPEN-AIR-SUN/mars](https://github.com/OPEN-AIR-SUN/mars) | 682 | Python | MARS: An Instance-aware, Modular and Realistic Simulator for Autonomou |
 
 ---
 
@@ -458,14 +458,17 @@
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
 | [ocornut/imgui](https://github.com/ocornut/imgui) | 71,623 | C++ | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal d |
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 60,185 | Python | openpilot is an operating system for robotics. Currently, it upgrades  |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 60,192 | Python | openpilot is an operating system for robotics. Currently, it upgrades  |
 | [mattermost/mattermost-server](https://github.com/mattermost/mattermost) | 35,534 | TypeScript | Mattermost is an open source platform for secure collaboration across  |
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,451 | C++ | An open autonomous driving platform |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,452 | C++ | An open autonomous driving platform |
 | [ceph/ceph](https://github.com/ceph/ceph) | 16,280 | C++ | Ceph is a distributed object, block, and file storage platform |
 | [emqx/emqx](https://github.com/emqx/emqx) | 15,972 | Erlang | The most scalable and reliable MQTT broker for AI, IoT, IIoT and conne |
 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,576 | C++ | ArduPlane, ArduCopter, ArduRover, ArduSub source |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 13,660 | Python | The pytest framework makes it easy to write small tests, yet scales to |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,129 | Dockerfile | Autoware - the world's leading open-source software project for autono |
+| [PX4/Firmware](https://github.com/PX4/PX4-Autopilot) | 11,170 | C++ | PX4 Autopilot Software |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | Autoware - the world's leading open-source software project for autono |
+| [CPFL/Autoware](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | Autoware - the world's leading open-source software project for autono |
+| [Autoware-AI/autoware.ai](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | Autoware - the world's leading open-source software project for autono |
 | [giampaolo/psutil](https://github.com/giampaolo/psutil) | 11,099 | Python | Cross-platform lib for process and system monitoring in Python |
 | [nasa/fprime](https://github.com/nasa/fprime) | 10,784 | C++ | F´ - A flight software and embedded systems framework |
 | [Leantime/leantime](https://github.com/Leantime/leantime) | 9,335 | PHP | Leantime is a goals focused project management system for non-project  |
@@ -474,6 +477,7 @@
 | [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) | 5,731 | C++ | The Time Series Visualization Tool that you deserve. |
 | [thrust/thrust](https://github.com/NVIDIA/thrust) | 4,997 | C++ | [ARCHIVED] The C++ parallel algorithms library. See https://github.com |
 | [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) | 4,267 | Python | A cross platform package to do curses-like operations, plus higher lev |
+| [cyberbotics/webots](https://github.com/cyberbotics/webots) | 4,168 | C++ | Webots Robot Simulator |
 | [shobrook/rebound](https://github.com/shobrook/rebound) | 4,132 | Python | Instant Stack Overflow results whenever an exception is thrown |
 | [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) | 4,061 | - | A curated list of awesome header-only C++ libraries |
 | [facebookresearch/ReAgent](https://github.com/facebookresearch/ReAgent) | 3,684 | Python | A platform for Reasoning systems (Reinforcement Learning, Contextual B |
@@ -481,6 +485,7 @@
 | [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3,214 | Swift | OpenBot leverages smartphones as brains for low-cost robots. We have d |
 | [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) | 3,133 | C++ | A fast and flexible implementation of Rigid Body Dynamics algorithms a |
 | [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo) | 2,451 | - | Apollo notes (Apollo学习笔记) - Apollo learning notes for beginners. |
+| [daohu527/Dig-into-Apollo](https://github.com/daohu527/dig-into-apollo) | 2,451 | - | Apollo notes (Apollo学习笔记) - Apollo learning notes for beginners. |
 | [MicrosoftDocs/live-share](https://github.com/microsoft/live-share) | 2,362 | - | Real-time collaborative development from the comfort of your favorite  |
 | [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) | 2,308 | C++ | [ARCHIVED] The C++ Standard Library for your entire system. See https: |
 | [casadi/casadi](https://github.com/casadi/casadi) | 2,147 | C++ | CasADi is a symbolic framework for numeric optimization implementing a |
@@ -492,11 +497,6 @@
 | [robin-shaun/XTDrone](https://github.com/robin-shaun/XTDrone) | 1,567 | C++ | UAV Simulation Platform based on PX4, ROS and Gazebo |
 | [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe) | 1,525 | C++ |  |
 | [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) | 1,519 | C++ | QT based cross platform canbus tool |
-| [intercellular/cell](https://github.com/intercellular/cell) | 1,505 | JavaScript | A self-driving web app framework |
-| [naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS) | 1,076 | JavaScript | 3D Point Cloud Annotation Platform for Autonomous Driving |
-| [eclipse-ecal/ecal](https://github.com/eclipse-ecal/ecal) | 978 | C++ | 📦 eCAL - enhanced Communication Abstraction Layer. A high performance  |
-| [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) | 966 | C++ | Deep learning inference nodes for ROS / ROS2 with support for NVIDIA J |
-| [uber/neuropod](https://github.com/uber/neuropod) | 940 | C++ | A uniform interface to run deep learning models from multiple framewor |
 
 ---
 
@@ -504,7 +504,7 @@
 
 | Project | ⭐ | Language | Description |
 |---------|---:|:--------:|-------------|
-| [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,321 | C | 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmo |
+| [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,322 | C | 华为鸿蒙分布式操作系统（Huawei HarmonyOS，纯血鸿蒙Harmony Next ），开源鸿蒙分布式操作系统（ OpenHarmo |
 | [DerrickXuNu/OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) | 794 | Python | [ICRA 2022] An opensource framework for cooperative detection. Officia |
 | [AIR-THU/DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) | 592 | Python |  |
 | [Little-Podi/Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) | 584 | - | This repository is a paper digest of recent advances in collaborative  |
@@ -540,8 +540,8 @@
 | [ucla-mobility/V2X-Real](https://github.com/ucla-mobility/V2X-Real) | 62 | Python | [ECCV 2024] The official codebase for the paper "V2X-Real: a Large-Sca |
 | [rruisong/Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving) | 61 | - | FedML for Autonomous Driving (AD), Intelligent Transportation Systems  |
 | [pytoyoda/pytoyoda](https://github.com/pytoyoda/pytoyoda) | 58 | Python | Python client for Toyota Connected Services API Europe |
+| [taco-group/STAMP](https://github.com/taco-group/STAMP) | 57 | Python | [ICLR'25] Official Implementation of STAMP: Scalable Task And Model-ag |
 | [fravw/RL_VPP_Thesis](https://github.com/fravw/RL_VPP_Thesis) | 57 | Jupyter Notebook | Thesis based on the development of a RL agent that manages a VPP throu |
-| [taco-group/STAMP](https://github.com/taco-group/STAMP) | 56 | Python | [ICLR'25] Official Implementation of STAMP: Scalable Task And Model-ag |
 | [taco-group/AirV2X-Perception](https://github.com/taco-group/AirV2X-Perception) | 54 | Python | Official implementation of AirV2X: Unified Air-Ground\\Vehicle-to-Ever |
 | [EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards) | 53 | Python | Deep Reinforcement Learning (DRL) algorithms have been successfully ap |
 
@@ -565,17 +565,19 @@
 | [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) | 444 | Python |  |
 | [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) | 397 | - | Radar Camera Fusion in Autonomous Driving |
 | [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) | 387 | Python | [ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range |
+| [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) | 349 | C++ | Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR an |
 | [AIS-Bonn/rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) | 265 | C++ | Easy to use tools to create and edit trajectories for the rviz camera. |
 | [VDIGPKU/RCBEVDet](https://github.com/VDIGPKU/RCBEVDet) | 258 | - | [CVPR 2024] RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Ob |
 | [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) | 236 | Python | Official implementation of our RAL'24 paper: Multi-Camera Unified Pre- |
 | [epiception/CalibNet](https://github.com/epiception/CalibNet) | 228 | Python | [DEPRECATED] Self-Supervised Extrinsic Calibration using 3D Spatial Tr |
 | [SxJyJay/MSMDFusion](https://github.com/SxJyJay/MSMDFusion) | 203 | Python | [CVPR 2023] MSMDFusion: Fusing LiDAR and Camera at Multiple Scales wit |
-| [LJacksonPan/RaTrack](https://github.com/LJacksonPan/RaTrack) | 202 | Python | [ICRA2024] RaTrack: Moving Object Detection and Tracking with 4D Radar |
+| [LJacksonPan/RaTrack](https://github.com/LJacksonPan/RaTrack) | 203 | Python | [ICRA2024] RaTrack: Moving Object Detection and Tracking with 4D Radar |
 | [uzh-rpg/e2calib](https://github.com/uzh-rpg/e2calib) | 188 | Python | CVPRW 2021: How to calibrate your event camera |
 | [Radar-Camera-Fusion/Awesome-Radar-Perception](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception) | 178 | - | Radar Perception in Autonomous Driving |
 | [JokerJohn/UpdatingHDmapByMonoCamera](https://github.com/JokerJohn/UpdatingHDmapByMonoCamera) | 151 | Python | Updating HD map with RTK-GPS and monocular camera |
 | [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) | 139 | Python | Realtime Camera-Radar-Lidar Fusion detection in ROS simulation. |
 | [RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection](https://github.com/RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection) | 117 | Python | Object Detection on Radar sensor and RGB camera images. https://ieeexp |
+| [fudan-zvg/WoVoGen](https://github.com/fudan-zvg/WoVoGen) | 112 | Python | [ECCV 2024] WoVoGen: World Volume-aware Diffusion for Controllable Mul |
 | [mrnabati/RRPN](https://github.com/mrnabati/RRPN) | 105 | Python | Code for 'RRPN: Radar Region Proposal Network for Object Detection in  |
 | [TUMFTM/RadarGNN](https://github.com/TUMFTM/RadarGNN) | 101 | Python | A graph neural network for the segmentation and object detection in ra |
 | [ika-rwth-aachen/MultiCorrupt](https://github.com/ika-rwth-aachen/MultiCorrupt) | 83 | Jupyter Notebook | [IV2024] MultiCorrupt: A benchmark for robust multi-modal 3D object de |
@@ -589,8 +591,6 @@
 | [UCR-CISL/BEVCalib](https://github.com/UCR-CISL/BEVCalib) | 52 | Python | [CoRL 2025] Official PyTorch Implementation of BEVCalib: LiDAR-Camera  |
 | [rolsheng/MM-VUFM4DS](https://github.com/rolsheng/MM-VUFM4DS) | 51 | - | 【IEEE T-IV】A systematic survey of multi-modal and multi-task visual un |
 | [UT18-Senior-Design/Object-Detection-and-Calibrations](https://github.com/UT18-Senior-Design/Object-Detection-and-Calibrations) | 51 | Python | code we've written for lidar-camera calibration with inputs from YOLO  |
-| [OanaGaskey/Advanced-Lane-Detection](https://github.com/OanaGaskey/Advanced-Lane-Detection) | 50 | Jupyter Notebook | Computer Vision algorithm to compute road curvature and lane vehicle o |
-| [andersy005/self-driving-car-nd](https://github.com/andersy005/self-driving-car-nd) | 49 | Jupyter Notebook | Udacity's Self-Driving Car Nanodegree project files and notes. |
 
 ---
 
@@ -654,4 +654,4 @@ Pull requests welcome!
 
 ---
 
-<p align="center"><sub>✨ Auto-curated · 2026-03-01 18:52:36</sub></p>
+<p align="center"><sub>✨ Auto-curated · 2026-03-02 00:18:13</sub></p>

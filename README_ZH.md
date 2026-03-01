@@ -4,7 +4,7 @@
 
 > 自动驾驶精选集合 —— 端到端驾驶、VLA、BEV 感知、规划、世界模型等资源自动收录
 
-![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3238-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2664k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-3238-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-03-01-orange?style=flat-square)
+![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-3296-blue?style=flat-square) ![Stars](https://img.shields.io/badge/Stars-2762k%2B-yellow?style=flat-square) ![今日新增](https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E6%96%B0%E5%A2%9E-58-green?style=flat-square) ![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026-03-02-orange?style=flat-square)
 
 ---
 
@@ -19,44 +19,44 @@
 | 分类 | 数量 | 占比 |
 |------|-----:|-----:|
 | 🏎️ 端到端驾驶 | 150 | █ 4.6% |
-| 🧠 VLA & 驾驶大模型 | 175 | █ 5.4% |
-| 🌍 世界模型 & 生成 | 42 | █ 1.3% |
-| 👁️ 3D 感知 & BEV | 434 | ████ 13.4% |
-| 🎨 分割 & 占用预测 | 212 | ██ 6.5% |
-| 📐 运动预测 & 规划 | 147 | █ 4.5% |
-| 🗺️ 建图 & 定位 | 141 | █ 4.4% |
-| 🎮 仿真 & 数据集 | 662 | ██████ 20.4% |
-| 🏗️ 开源平台 & 框架 | 382 | ███ 11.8% |
+| 🧠 VLA & 驾驶大模型 | 175 | █ 5.3% |
+| 🌍 世界模型 & 生成 | 47 | █ 1.4% |
+| 👁️ 3D 感知 & BEV | 442 | ████ 13.4% |
+| 🎨 分割 & 占用预测 | 214 | ██ 6.5% |
+| 📐 运动预测 & 规划 | 149 | █ 4.5% |
+| 🗺️ 建图 & 定位 | 144 | █ 4.4% |
+| 🎮 仿真 & 数据集 | 670 | ██████ 20.3% |
+| 🏗️ 开源平台 & 框架 | 395 | ███ 12.0% |
 | 📡 V2X & 车联网 | 144 | █ 4.4% |
-| 📷 传感器 & 融合 | 85 | █ 2.6% |
-| 📦 其他 | 664 | ██████ 20.5% |
+| 📷 传感器 & 融合 | 87 | █ 2.6% |
+| 📦 其他 | 679 | ██████ 20.6% |
 
 ---
 
-## 🔥 每日热门 (2026-03-01)
+## 🔥 每日热门 (2026-03-02)
 
 | # | 项目 | ⭐ | 📈 日增 | 描述 |
 |:-:|------|---:|-------:|------|
-| 1 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 159,977 | 🆕 | 掌握命令行,在一个页面 |
-| 2 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 117,736 | 🆕 | 虚拟白板,用于绘制手绘图像图表 |
-| 3 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 80,416 | 🆕 | 开源连续文件同步 |
-| 4 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 73,253 | 🆕 | 简单的终端UI用于 git命令 |
-| 5 | [ocornut/imgui](https://github.com/ocornut/imgui) | 71,623 | 🆕 | 亲爱的ImGui:C++的无图形用户界面, |
-| 6 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70,768 | 🆕 | 协议缓冲器 - Google 的数据交换格式 |
-| 7 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 70,633 | 🆕 | 欧博斯工作室 - 免费的开源软件,用于直播和屏幕录音 |
-| 8 | [commaai/openpilot](https://github.com/commaai/openpilot) | 60,185 | 🆕 | 现在,它正在升级300多辆支持的驾驶员辅助系统. |
-| 9 | [sharkdp/bat](https://github.com/sharkdp/bat) | 57,436 | 🆕 | 一只猫 (1) 有翅膀的克隆. |
-| 10 | [jgm/pandoc](https://github.com/jgm/pandoc) | 42,306 | 🆕 | 统一标记转换器 |
-| 11 | [ray-project/ray](https://github.com/ray-project/ray) | 41,529 | 🆕 | 雷是一个人工智能计算引擎.雷由一个分布式运行时间核心和一组用于加速ML工作负载的人工智能图书馆组成. |
-| 12 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 39,043 | 🆕 | 选,一个静态分析工具 |
-| 13 | [mattermost/mattermost-server](https://github.com/mattermost/mattermost) | 35,534 | 🆕 | 对于整个软件开发生命周期,Mattermost是一个开源平台, |
-| 14 | [jbarlow83/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | 32,790 | 🆕 | 通过 OCRmyPDF 添加一个 OCR 文字层,可以扫描到的 PDF 文件,从而允许搜索它们 |
-| 15 | [lutzroeder/Netron](https://github.com/lutzroeder/netron) | 32,502 | 🆕 | 对于神经网络,深度学习和机器学习模型的可视化器 |
-| 16 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | 28,757 | 🆕 | 通过使用该技术,我们可以使用 |
-| 17 | [gabime/spdlog](https://github.com/gabime/spdlog) | 28,399 | 🆕 | 快速的C++记录库. |
-| 18 | [fastai/fastai](https://github.com/fastai/fastai) | 27,875 | 🆕 | 佛斯塔伊深度学习图书馆 |
-| 19 | [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 27,225 | 🆕 | 类似于Ack的代码搜索工具,但更快. |
-| 20 | [samuelcolvin/pydantic](https://github.com/pydantic/pydantic) | 27,055 | 🆕 | 使用Python类型提示的数据验证 |
+| 1 | [commaai/openpilot](https://github.com/commaai/openpilot) | 60,192 | +7 | 现在,它正在升级300多辆支持的驾驶员辅助系统. |
+| 2 | [autowarefoundation/autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) | 289 | +4 | 免费自动驾驶汽车堆 - 完全开源的ADAS和自动驾驶系统 |
+| 3 | [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,131 | +2 | 汽车软件 - - 世界上领先的自动驾驶开源软件项目 |
+| 4 | [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,211 | +2 | 星VLA:一种类似乐高的代码基础,用于视觉语言行动模型的开发 |
+| 5 | [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 805 | +2 | 德克斯博特:开源视觉语言行动工具箱 |
+| 6 | [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 532 | +2 | [ICLR 2026] 官方实施"软向变压器作为可扩展的跨体体视觉语言行动模型" |
+| 7 | [seehiong/hdb-price-predictor](https://github.com/seehiong/hdb-price-predictor) | 148 | +2 | 通过预先训练的XGBoost模型预测新加坡HDB再销售平价的 Streamlit网络应用程序. 包含... |
+| 8 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,452 | +1 | 开放的自动驾驶平台 |
+| 9 | [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,616 | +1 | 开源模拟器用于自动驾驶研究. |
+| 10 | [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,886 | +1 | 关于点云的文件和数据集. |
+| 11 | [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,612 | +1 | 精选的AI最新研究列表,重点关注视觉语言行动 (VLA) 模型,视觉语言导航 (VLN) 和相关的多... |
+| 12 | [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,001 | +1 | 视觉语言行动模型的有效范例 |
+| 13 | [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,726 | +1 | [CVPR 2025] 开源,端到端,视觉语言行动模型,用于GUI代理和计算机使用. |
+| 14 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,690 | +1 | 精心整理的LLM/VLM/VLA/世界自动驾驶模型 (LLM4AD) 资源 (不断更新) |
+| 15 | [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,438 | +1 | 关于自动驾驶汽车控制算法的Python样本代码和文件.该项目可以作为技术指南,用于学习算法和软件架构... |
+| 16 | [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,322 | +1 | 华为蒙分布式操作系统(华为HarmonyOS,纯血蒙Harmony 下一个),开源蒙分布式操作系统(... |
+| 17 | [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,263 | +1 | 关于世界模型的定义和使用世界模型的一般视频生成,体现人工智能和自动驾驶的详细文件列表,包括论文,代码... |
+| 18 | [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 904 | +1 | VLA-002:统一的视觉语言行动和世界模式 |
+| 19 | [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 694 | +1 | 国际机器人公司的开放平台,用于构建通用导航基础模型. |
+| 20 | [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 658 | +1 | 🔥空间VLA:一个空间增强的视觉语言行动模型,该模型是基于1.1百万个真实机器人剧集训练的. |
 
 ---
 
@@ -64,16 +64,16 @@
 
 - [🏎️ 端到端驾驶](#e2e) (150)
 - [🧠 VLA & 驾驶大模型](#vla) (175)
-- [🌍 世界模型 & 生成](#world-model) (42)
-- [👁️ 3D 感知 & BEV](#perception) (434)
-- [🎨 分割 & 占用预测](#segmentation) (212)
-- [📐 运动预测 & 规划](#prediction) (147)
-- [🗺️ 建图 & 定位](#mapping) (141)
-- [🎮 仿真 & 数据集](#simulation) (662)
-- [🏗️ 开源平台 & 框架](#platform) (382)
+- [🌍 世界模型 & 生成](#world-model) (47)
+- [👁️ 3D 感知 & BEV](#perception) (442)
+- [🎨 分割 & 占用预测](#segmentation) (214)
+- [📐 运动预测 & 规划](#prediction) (149)
+- [🗺️ 建图 & 定位](#mapping) (144)
+- [🎮 仿真 & 数据集](#simulation) (670)
+- [🏗️ 开源平台 & 框架](#platform) (395)
 - [📡 V2X & 车联网](#v2x) (144)
-- [📷 传感器 & 融合](#sensor) (85)
-- [📦 其他](#other) (664)
+- [📷 传感器 & 融合](#sensor) (87)
+- [📦 其他](#other) (679)
 
 ---
 
@@ -83,7 +83,7 @@
 |------|---:|:----:|------|
 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 24,485 | Python | 开发者平台可以以信心构建人工智能代理和模型. 通过端到端跟踪,可观察性和评估,提高人工智能应用,所有这些都在一个集成平台中. |
 | [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) | 3,532 | - | 您需要的全部内容是自动驾驶 |
-| [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,725 | Python | [CVPR 2025] 开源,端到端,视觉语言行动模型,用于GUI代理和计算机使用. |
+| [showlab/ShowUI](https://github.com/showlab/ShowUI) | 1,726 | Python | [CVPR 2025] 开源,端到端,视觉语言行动模型,用于GUI代理和计算机使用. |
 | [marsauto/europilot](https://github.com/marsauto/europilot) | 1,518 | Jupyter Notebook | 工具包用于控制Euro Truck Simulator 2 通过端到端驾驶模型 |
 | [autonomousvision/transfuser](https://github.com/autonomousvision/transfuser) | 1,512 | Python | [PAMI'23] 变压器:自动驾驶的变压器基于传感器融合的模拟; [CVPR'21] 无动驾驶的多模式变压器 |
 | [hustvl/MapTR](https://github.com/hustvl/MapTR) | 1,460 | Python | [ICLR'23 Spotlight & ECCV'24 & IJCV'24]地图TR:结构化建模和学习在线向量化高清地图建设 |
@@ -117,7 +117,7 @@
 | [OpenDriveLab/DriveAdapter](https://github.com/OpenDriveLab/DriveAdapter) | 244 | Python | [ICCV 2023 口头] 终端自动驾驶的新范例,以缓解因果混乱 |
 | [atonderski/neuro-ncap](https://github.com/atonderski/neuro-ncap) | 243 | Python | 无线自动驾驶的NeuroNCAP基准 |
 | [Pranav-chib/End-to-End-Autonomous-Driving](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving) | 241 | - | 关于自动驾驶端到端的最新资源集 [IEEE TIV接受调查] |
-| [hustvl/DiffusionDriveV2](https://github.com/hustvl/DiffusionDriveV2) | 240 | Python | 扩散DriveV2:加强学习限制的断断扩散模型在端到端自动驾驶 |
+| [hustvl/DiffusionDriveV2](https://github.com/hustvl/DiffusionDriveV2) | 241 | Python | 扩散DriveV2:加强学习限制的断断扩散模型在端到端自动驾驶 |
 | [naokishibuya/car-behavioral-cloning](https://github.com/naokishibuya/car-behavioral-cloning) | 234 | Python | 在使用 Tensorflow 和 Keras 的模拟器中建立和训练了一个结合式网络,用于端到端的驾驶 |
 | [liyingyanUCAS/WoTE](https://github.com/liyingyanUCAS/WoTE) | 199 | Python | (ICCV2025) 通过BEV世界模型进行在线轨迹评估的端到端驾驶 |
 | [Thinklab-SJTU/DriveTransformer](https://github.com/Thinklab-SJTU/DriveTransformer) | 190 | Python | [ICLR 2025] 驱动变压器:可扩展的端到端自动驾驶的统一变压器 |
@@ -128,33 +128,33 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,611 | - | 精选的AI最新研究列表,重点关注视觉语言行动 (VLA) 模型,视觉语言导航 (VLN) 和相关的多模式学习方法. |
+| [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) | 2,612 | - | 精选的AI最新研究列表,重点关注视觉语言行动 (VLA) 模型,视觉语言导航 (VLN) 和相关的多模式学习方法. |
 | [open-gigaai/giga-brain-0](https://github.com/open-gigaai/giga-brain-0) | 2,376 | Python | 基加脑-0:一个以世界模式为动力的视觉语言行动模型 |
-| [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,000 | Python | 视觉语言行动模型的有效范例 |
-| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,689 | - | 精心整理的LLM/VLM/VLA/世界自动驾驶模型 (LLM4AD) 资源 (不断更新) |
+| [OpenHelix-Team/VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) | 2,001 | Python | 视觉语言行动模型的有效范例 |
+| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | 1,690 | - | 精心整理的LLM/VLM/VLA/世界自动驾驶模型 (LLM4AD) 资源 (不断更新) |
 | [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) | 1,397 | Python | 从物理智能重新实施 pi0视觉语言行动 (VLA) 模型 |
 | [OpenDriveLab/DriveLM](https://github.com/OpenDriveLab/DriveLM) | 1,251 | HTML | [ECCV 2024 口头] 驱动LM:使用图形驾驶视觉问题回答 |
-| [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,209 | Python | 星VLA:一种类似乐高的代码基础,用于视觉语言行动模型的开发 |
+| [starVLA/starVLA](https://github.com/starVLA/starVLA) | 1,211 | Python | 星VLA:一种类似乐高的代码基础,用于视觉语言行动模型的开发 |
 | [NVlabs/VoxFormer](https://github.com/NVlabs/VoxFormer) | 1,181 | Python | 官方PyTorch实现VoxFormer [CVPR 2023突出] |
-| [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 903 | Python | VLA-002:统一的视觉语言行动和世界模式 |
+| [alibaba-damo-academy/RynnVLA-002](https://github.com/alibaba-damo-academy/RynnVLA-002) | 904 | Python | VLA-002:统一的视觉语言行动和世界模式 |
 | [Robbyant/lingbot-vla](https://github.com/Robbyant/lingbot-vla) | 857 | Python | 实践式VLA基础模型 |
-| [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 803 | Python | 德克斯博特:开源视觉语言行动工具箱 |
+| [dexmal/dexbotic](https://github.com/dexmal/dexbotic) | 805 | Python | 德克斯博特:开源视觉语言行动工具箱 |
 | [coderonion/awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) | 802 | - | 关于大语言模型 (LLM),视觉语言模型 (VLM),视觉语言行动 (VLA),人工智能生成内容 (AI Generated Content... |
 | [EmbodiedMind/VLA-Diffusion-Policy-Robotics](https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics) | 764 | - | 关于机器人操纵的传播模型的资源和论文. |
-| [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 693 | Jupyter Notebook | 国际机器人公司的开放平台,用于构建通用导航基础模型. |
-| [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 657 | Python | 🔥空间VLA:一个空间增强的视觉语言行动模型,该模型是基于1.1百万个真实机器人剧集训练的. |
+| [InternRobotics/InternNav](https://github.com/InternRobotics/InternNav) | 694 | Jupyter Notebook | 国际机器人公司的开放平台,用于构建通用导航基础模型. |
+| [SpatialVLA/SpatialVLA](https://github.com/SpatialVLA/SpatialVLA) | 658 | Python | 🔥空间VLA:一个空间增强的视觉语言行动模型,该模型是基于1.1百万个真实机器人剧集训练的. |
 | [NVlabs/EmerNeRF](https://github.com/NVlabs/EmerNeRF) | 635 | Python | 通过自我监督实现EmerNeRF的PyTorch实施:突发的空间-时间场景分解 |
 | [UMass-Embodied-AGI/3D-VLA](https://github.com/UMass-Embodied-AGI/3D-VLA) | 622 | Python | [ICML 2024] 3D-VLA:一个3D视觉语言行动生成世界模型 |
 | [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | 621 | Python | [AAAI 2026] 开放DriveVLA:实现自动驾驶端到端,具有大型视觉语言行动模式 |
 | [MIV-XJTU/FSDrive](https://github.com/MIV-XJTU/FSDrive) | 612 | Python | [NeurIPS 2025 聚焦] 官方实施"未来SightDrive:视觉思考与空间-时间CT自动驾驶" |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | 546 | - | 视觉语言自动驾驶行动模型 (VLA4AD) 资源,作为调查论文的附属库. |
 | [Denghaoyuan123/Awesome-RL-VLA](https://github.com/Denghaoyuan123/Awesome-RL-VLA) | 534 | - | 关于机器人操纵视觉语言行动模型的强化学习的调查 |
-| [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 530 | C++ | [ICLR 2026] 官方实施"软向变压器作为可扩展的跨体体视觉语言行动模型" |
-| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 525 | Python | [RSS'25] 这里是"NaVILA: Legged Robot Vision-Language-Action Model for Nav... |
-| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 501 | - | 关于机器人技术的视觉语言行动 (VLA) 模型的优秀研究论文,模型,数据集和其他资源的全面列表. |
+| [2toinf/X-VLA](https://github.com/2toinf/X-VLA) | 532 | C++ | [ICLR 2026] 官方实施"软向变压器作为可扩展的跨体体视觉语言行动模型" |
+| [AnjieCheng/NaVILA](https://github.com/AnjieCheng/NaVILA) | 526 | Python | [RSS'25] 这里是"NaVILA: Legged Robot Vision-Language-Action Model for Nav... |
+| [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) | 500 | - | 关于机器人技术的视觉语言行动 (VLA) 模型的优秀研究论文,模型,数据集和其他资源的全面列表. |
 | [OpenBMB/DeepThinkVLA](https://github.com/OpenBMB/DeepThinkVLA) | 493 | Python | 深思VLA:提高视觉语言行动模型的推理能力 |
 | [Psi-Robot/DexGraspVLA](https://github.com/Psi-Robot/DexGraspVLA) | 475 | Python | 德克斯格拉斯普维拉:一种视觉语言行动框架,向普通的性掌握 |
-| [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) | 454 | - | 调查中的论文列表:关于视觉语言行动模式的调查:行动标记化前景 |
+| [Psi-Robot/Awesome-VLA-Papers](https://github.com/Psi-Robot/Awesome-VLA-Papers) | 455 | - | 调查中的论文列表:关于视觉语言行动模式的调查:行动标记化前景 |
 | [OpenDriveLab/OpenScene](https://github.com/OpenDriveLab/OpenScene) | 424 | Python | 自动驾驶3D占用预测基准 |
 | [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | 413 | Python | [NeurIPS 2025] 汽车VLA:一个视觉语言行动模型,用于自动驾驶端到端,具有适应性推理和强化细节调整 |
 | [microsoft/CogACT](https://github.com/microsoft/CogACT) | 406 | Python | 基于机器人操纵的认知和行动协同化的基本视觉语言行动模型 |
@@ -176,9 +176,11 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | 1,856 | - | 收集一些自动驾驶世界模型 (和机器人等) 的论文. |
-| [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,262 | - | 关于世界模型的定义和使用世界模型的一般视频生成,体现人工智能和自动驾驶的详细文件列表,包括论文,代码和相关网站. |
+| [leofan90/Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) | 1,263 | - | 关于世界模型的定义和使用世界模型的一般视频生成,体现人工智能和自动驾驶的详细文件列表,包括论文,代码和相关网站. |
+| [cure-lab/MagicDrive](https://github.com/cure-lab/MagicDrive) | 1,162 | Python | 官方实施论文 MagicDrive:街景生成与多种3D几何控制 |
 | [OpenDriveLab/Vista](https://github.com/OpenDriveLab/Vista) | 855 | Python | [NeurIPS 2024] 自动驾驶的通用世界模式 |
 | [worldbench/awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) | 830 | HTML |  3D和 4D 世界建模:调查 |
+| [worldbench/survey](https://github.com/worldbench/awesome-3d-4d-world-models) | 830 | HTML |  3D和 4D 世界建模:调查 |
 | [OpenDriveLab/DriveAGI](https://github.com/OpenDriveLab/DriveAGI) | 790 | Python | 特别是在GenAD&Dataset Survey.OpenDriveLab的基础驱动模型集合.对于Vista和DriveLM,请参阅单个页面... |
 | [MIT-SPARK/Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) | 730 | C++ | 从2D数据中实时3D语义重建 |
 | [flymin/MagicDrive-V2](https://github.com/flymin/MagicDrive-V2) | 692 | Python | [ICCV 2025] 官方实施论文 MagicDrive-V2:自动驾驶自动驾驶自动驾驶的高分辨率长视频生成 |
@@ -196,9 +198,12 @@
 | [Kevin-thu/Epona](https://github.com/Kevin-thu/Epona) | 300 | Python | 埃波纳官方代码:自动驾驶自动驾驶自动驾驶世界模式 (ICCV 2025) |
 | [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD) | 271 | - | 综合调查自动驾驶的创建视觉基础模型,包括挑战,方法和机会. |
 | [wenyuqing/panacea](https://github.com/wenyuqing/panacea) | 253 | Python | [CVPR2024] "巴拿西亚:自动驾驶全景和可控制视频生成"论文官方库 |
-| [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) | 237 | Python | [AAAI 2025] 驱动梦想-2:为多种驾驶视频生成的LLM增强的世界模型 |
-| [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) | 236 | Python | 通过视频GPT构建自动驾驶世界模型 |
+| [f1yfisher/DriveDreamer2](https://github.com/f1yfisher/DriveDreamer2) | 238 | Python | [AAAI 2025] 驱动梦想-2:为多种驾驶视频生成的LLM增强的世界模型 |
+| [YvanYin/DrivingWorld](https://github.com/YvanYin/DrivingWorld) | 237 | Python | 通过视频GPT构建自动驾驶世界模型 |
 | [worldbench/WorldLens](https://github.com/worldbench/WorldLens) | 183 | Python | [CVPR 2026] 世界镜头:现实世界驾驶世界模型的全频谱评估 |
+| [lzzzzzm/II-World](https://github.com/lzzzzzm/II-World) | 174 | Python | [ICCV2025] 第二世界:实现高效的动态4D场景预测的跨界标记化 |
+| [valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel) | 148 | Jupyter Notebook | 通过视频生成建模 (官方存储库) 实现自动驾驶. |
+| [Sta8is/DINO-Foresight](https://github.com/Sta8is/DINO-Foresight) | 146 | Python | [NeurIPS 2025] 官方实施DINO预测:与DINO展望未来 |
 | [VISION-SJTU/Lightning-NeRF](https://github.com/VISION-SJTU/Lightning-NeRF) | 122 | Python | [ICRA 2024]雷射NeRF:自动驾驶的有效混合场景表示 |
 | [zhou13/holicity](https://github.com/zhou13/holicity) | 92 | Python | 霍利城市:学习整体3D结构的城市规模数据平台 |
 | [chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving](https://github.com/chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving) | 87 | - | 关于世界自动驾驶模型的惊人论文 |
@@ -210,11 +215,6 @@
 | [shanpoyang654/InstaDrive](https://github.com/shanpoyang654/InstaDrive) | 34 | Python | ICCV 2025 InstaDrive:实例知情驾驶世界模型实现现实和一致的视频生成 |
 | [DeepLabc/AutoDrive_NeRF](https://github.com/DeepLabc/AutoDrive_NeRF) | 31 | - | 据悉,该库用于收集自动驾驶的NeRF文件. |
 | [Chenwei-Liang/CoDa-4DGS](https://github.com/Chenwei-Liang/CoDa-4DGS) | 28 | Python | [ICCV 2025]CoDa-4DGS:自动驾驶的动态高斯式割,有背景和变形意识 |
-| [turingmotors/ACT-Bench](https://github.com/turingmotors/ACT-Bench) | 26 | Python | 国际自动驾驶模式的行动忠诚性 |
-| [vita-epfl/MAD-World-Model-Code](https://github.com/vita-epfl/MAD-World-Model-Code) | 22 | - | 官方实施MAD:为有效驾驶世界模式实现运动外观脱. |
-| [Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization](https://github.com/Shaggyshak/CS543_project_Image-based-Localization-of-Bridge-Defects-with-AR-Visualization) | 22 | Jupyter Notebook | 为了解决这些局限性,我们研究了一种基于计算机视觉的方法,使用SIFT键点对合在收集的缺陷图像上与桥梁现有重建的3D点云相匹配.我们还研究了使... |
-| [anubhav0fnu/Synthetic-video-generation-for-Autonomous-cars](https://github.com/anubhav0fnu/Synthetic-video-generation-for-Autonomous-cars) | 15 | Python | 对于自动驾驶汽车 (AC) 来说,一个巨大的挑战是拥有捕捉现实世界多种驾驶条件的数据集.目前可用的视频数据集没有注释,其中大多数不是高分辨率... |
-| [zhanghm1995/awesome-world-models-for-AD](https://github.com/zhanghm1995/awesome-world-models-for-AD) | 12 | - | 专动驾驶的世界令人惊叹的车型排列表 (不断更新) |
 
 ---
 
@@ -225,20 +225,23 @@
 | [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) | 5,466 | Python | 基于LiDAR的3D对象检测工具箱 |
 | [sshaoshuai/PCDet](https://github.com/open-mmlab/OpenPCDet) | 5,466 | Python | 基于LiDAR的3D对象检测工具箱 |
 | [fundamentalvision/BEVFormer](https://github.com/fundamentalvision/BEVFormer) | 4,330 | Python | [ECCV 2022]这是BevFormer的官方实施,仅为自动驾驶感知,例如3D对象检测和语义地图分区的仅为摄像头的框架. |
-| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,741 | - | 工具用于C++和Python中的专业机器人开发,使用ROS,自动驾驶和航空航天. |
+| [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,740 | - | 工具用于C++和Python中的专业机器人开发,使用ROS,自动驾驶和航空航天. |
+| [protontypes/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) | 3,740 | - | 工具用于C++和Python中的专业机器人开发,使用ROS,自动驾驶和航空航天. |
 | [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) | 3,030 | Python | [ICRA'23] BEVFusion:多任务多传感器融合,具有统一的鸟眼视图表示 |
-| [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,885 | Python | 关于点云的文件和数据集. |
+| [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) | 2,886 | Python | 关于点云的文件和数据集. |
 | [CesiumGS/3d-tiles](https://github.com/CesiumGS/3d-tiles) | 2,411 | Batchfile | 流媒体大型异质3D地空间数据集的规格:earth_americas: |
 | [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) | 2,366 | C++ | 高级实施LOAM |
 | [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS) | 2,045 | C++ | 美国航空航天局 (GAAS) 是一个为全自动驾驶VTOL (也称为飞行汽车) 和无人机设计的开源程序. |
 | [facebookresearch/votenet](https://github.com/facebookresearch/votenet) | 1,747 | Python | 深度选3D物体检测在点云中 |
 | [V2AI/Det3D](https://github.com/V2AI/Det3D) | 1,559 | Python | 世界上第一台一般用途3D物体检测代码. |
+| [poodarchu/Det3D](https://github.com/V2AI/Det3D) | 1,559 | Python | 世界上第一台一般用途3D物体检测代码. |
 | [yangyanli/PointCNN](https://github.com/yangyanli/PointCNN) | 1,428 | Python | 转换点CNN:关于X转换点的转变 (NeurIPS 2018) |
 | [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) | 1,356 | Python | 对于自动驾驶的各级观众, |
 | [maudzung/Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) | 1,318 | Python | 基于论文的YOLOv4的PyTorch实现: "复杂YOLO:点云上的实时3D物体检测" |
 | [PRBonn/depth_clustering](https://github.com/PRBonn/depth_clustering) | 1,294 | C++ | 快速和强大的点云集成,由Velodyne传感器生成. |
 | [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) | 1,228 | - | 😎 惊人的LIDAR列表.列表包括LIDAR制造商,数据集,点云处理算法,点云框架和模拟器. |
 | [maudzung/SFA3D](https://github.com/maudzung/SFA3D) | 1,122 | Python | 基于3D LiDAR点云 (PyTorch实现) 的超快和精确的3D对象检测 |
+| [maudzung/Super-Fast-Accurate-3D-Object-Detection](https://github.com/maudzung/SFA3D) | 1,122 | Python | 基于3D LiDAR点云 (PyTorch实现) 的超快和精确的3D对象检测 |
 | [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) | 1,098 | - | 关于多摄像头3D物体检测和分类的好论文,如DETR3D,BEVDet,BEVFormer,BEVDepth,UniAD |
 | [neka-nat/cupoch](https://github.com/neka-nat/cupoch) | 1,038 | C++ | 机器人与GPU计算 |
 | [PRBonn/lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) | 1,026 | Python | 无人驾驶的LiDAR点云的语义和实例分区 |
@@ -259,9 +262,6 @@
 | [beedotkiran/Lidar_For_AD_references](https://github.com/beedotkiran/Lidar_For_AD_references) | 772 | - | 关于自动驾驶的Lidar点云处理的参考资料列表 |
 | [4DVLab/Vision-Centric-BEV-Perception](https://github.com/4DVLab/Vision-Centric-BEV-Perception) | 737 | - | 视力中心的BEV感知:调查 |
 | [vvincenttttt/Awesome-3D-Object-Detection](https://github.com/vvincenttttt/Awesome-3D-Object-Detection) | 684 | - | 关于3D对象检测的深度学习的论文,代码和数据集. |
-| [OpenDriveLab/OccNet](https://github.com/OpenDriveLab/OccNet) | 668 | Python | 场作为占用 |
-| [mileyan/Pseudo_Lidar_V2](https://github.com/mileyan/Pseudo_Lidar_V2) | 647 | Python | (ICLR) 伪LiDAR++:自动驾驶中的3D对象检测的精确深度 |
-| [heremaps/pptk](https://github.com/heremaps/pptk) | 635 | C++ | 点处理工具包 (pptk) 是一个用于可视化和处理2d/3d点云的Python包. |
 
 ---
 
@@ -270,7 +270,7 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [heartexlabs/label-studio](https://github.com/HumanSignal/label-studio) | 26,559 | TypeScript | 标签工作室是一个多类型的标签和注释工具,具有标准化输出格式 |
-| [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | 9,308 | Python | 图像分类图书馆使用方便,具有精彩的预训练模型动物园,支持在语义分类,互动分类,全视分类,图像合,3D分类等领域的广泛实用任务. |
+| [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | 9,307 | Python | 图像分类图书馆使用方便,具有精彩的预训练模型动物园,支持在语义分类,互动分类,全视分类,图像合,3D分类等领域的广泛实用任务. |
 | [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) | 4,500 | Python | [CVPR 2023最佳论文奖] 计划型自动驾驶 |
 | [ANYbotics/grid_map](https://github.com/ANYbotics/grid_map) | 3,067 | C++ | 移动机器人绘图的通用网格地图库 |
 | [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) | 3,035 | - | 路径检测的纸质列表. |
@@ -298,7 +298,7 @@
 | [OpenDriveLab/PersFormer_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) | 494 | Python | 视角变压器在3D轨道检测上 |
 | [vietanhdev/open-adas](https://github.com/vietanhdev/open-adas) | 487 | C++ | 开源高级驾驶员辅助系统 (ADAS) 使用Jetson Nano作为硬件. |
 | [aliyun/conditional-lane-detection](https://github.com/aliyun/conditional-lane-detection) | 417 | Python |  |
-| [pmj110119/RenderOcc](https://github.com/pmj110119/RenderOcc) | 410 | Python | [ICRA 2024] 雷Occ:视觉中心的3D占用预测与2D雷监督. (早期版本:UniOcc) |
+| [pmj110119/RenderOcc](https://github.com/pmj110119/RenderOcc) | 411 | Python | [ICRA 2024] 雷Occ:视觉中心的3D占用预测与2D雷监督. (早期版本:UniOcc) |
 | [FANG-MING/occupancy-for-nuscenes](https://github.com/FANG-MING/occupancy-for-nuscenes) | 400 | Python | 3D占用量 |
 | [MCG-NJU/SparseOcc](https://github.com/MCG-NJU/SparseOcc) | 400 | Python | [ECCV 2024] 完全缩的3D占用预测和RayIoU评估指标 |
 | [zhangyp15/OccFormer](https://github.com/zhangyp15/OccFormer) | 395 | Python | [ICCV 2023] OccFormer:基于视觉的3D语义占用预测双路变压器 |
@@ -320,9 +320,11 @@
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | 3,182 | Python | 无人驾驶决策的极简环境 |
 | [eleurent/highway-env](https://github.com/Farama-Foundation/HighwayEnv) | 3,182 | Python | 无人驾驶决策的极简环境 |
 | [zhm-real/MotionPlanning](https://github.com/zhm-real/MotionPlanning) | 2,643 | Python | 常用于自动驾驶汽车的运动规划算法 (路径规划+路径跟踪) |
+| [Unity-Technologies/Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) | 2,467 | C# | 对于"统一"中的机器人模拟工具,教程,资源和文档的中央存储库. |
 | [ompl/ompl](https://github.com/ompl/ompl) | 1,965 | C++ | 开放运动规划图书馆 (OMPL) |
 | [karlkurzer/path_planner](https://github.com/karlkurzer/path_planner) | 1,868 | C++ | 基工大学研究概念车的混合A*路径规划器 |
 | [jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1,662 | TeX | 关于轨迹预测的最新研究材料的选择 |
+| [jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) | 1,662 | TeX | 关于轨迹预测的最新研究材料的选择 |
 | [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner) | 1,282 | C++ | 基于定时弹性带 (ROS包) 的移动机器人独特拓理念的最佳轨迹规划器 |
 | [agrimgupta92/sgan](https://github.com/agrimgupta92/sgan) | 905 | Python | 关于"社会GAN:具有生成对抗网络的社会可接受轨迹"的代码,Gupta等,CVPR 2018 |
 | [woven-by-toyota/l5kit](https://github.com/woven-by-toyota/l5kit) | 884 | Python | 果电脑设备 |
@@ -354,8 +356,6 @@
 | [jchengai/gpir](https://github.com/jchengai/gpir) | 252 | C++ | [ICRA'22] 通过高斯过程和增进精炼实现自动驾驶的实时轨迹规划 |
 | [WoodOxen/tactics2d](https://github.com/WoodOxen/tactics2d) | 252 | Python | 策略2D:一个增强学习环境图书馆,提供创新场景来推动决策 |
 | [nachiket92/PGP](https://github.com/nachiket92/PGP) | 246 | Python | 编码"多模轨迹预测,条件在轨道图交叉路口",CoRL 2021. |
-| [TUMFTM/EthicalTrajectoryPlanning](https://github.com/TUMFTM/EthicalTrajectoryPlanning) | 245 | Python | 自动驾驶汽车的道德轨迹规划算法 |
-| [personalrobotics/aikido](https://github.com/personalrobotics/aikido) | 228 | C++ | 动力学,动力学和优化人工智能 |
 
 ---
 
@@ -378,8 +378,9 @@
 | [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) | 1,789 | - | 雷达数据集,检测,跟踪和融合的整理列表 |
 | [laboshinl/loam_velodyne](https://github.com/laboshinl/loam_velodyne) | 1,749 | C++ | 激光眼测量和绘图 (Loam) 是使用3D雷达来估计状态和绘图的实时方法. |
 | [ANYbotics/elevation_mapping](https://github.com/ANYbotics/elevation_mapping) | 1,714 | C++ | 机器人中心的高度地图,用于粗地形导航 |
-| [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,437 | Python | 关于自动驾驶汽车控制算法的Python样本代码和文件.该项目可以作为技术指南,用于学习算法和软件架构. |
+| [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | 1,438 | Python | 关于自动驾驶汽车控制算法的Python样本代码和文件.该项目可以作为技术指南,用于学习算法和软件架构. |
 | [wh200720041/floam](https://github.com/wh200720041/floam) | 1,140 | C++ | 快速LOAM:快速优化Lidar眼科测量和内外定位地图 IROS 2021 |
+| [Little-Potato-1990/localization_in_auto_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) | 926 | C++ |  |
 | [ucla-vision/xivo](https://github.com/ucla-vision/xivo) | 889 | C++ | X 静电辅助视觉测 |
 | [carlosmccosta/dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) | 871 | C++ | 机器人定位和3D感知的点云注册管道 |
 | [MOLAorg/mola](https://github.com/MOLAorg/mola) | 869 | C++ | 模块化优化框架用于定位和地图化 (MOLA) |
@@ -389,10 +390,12 @@
 | [rpng/MINS](https://github.com/rpng/MINS) | 668 | C++ | 具有高效和强大的多传感器辅助的惯性导航系统,具有在线校准,能够融合IMU,摄像头,LiDAR,GPS/GNSS和轮盘传感器.使用案例:VIN... |
 | [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics) | 662 | Matlab | 移动机器人导航的 MATLAB样本代码 |
 | [Yixin-F/better_fastlio2](https://github.com/Yixin-F/better_fastlio2) | 651 | C++ | 研究生论文:快速_lio_sam+动态移除 (T-GRS 2024) +多次会议映射 (ICRA 2022 Kim) +对象级更新 +在线重... |
+| [karanchawla/GPS_IMU_Kalman_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) | 645 | C++ | 通过将GPS,IMU和编码器传感器结合起来,以准确估计状态. |
 | [commaai/comma2k19](https://github.com/commaai/comma2k19) | 631 | Jupyter Notebook | 对于合并姿势估计器和映射算法的开发和验证的驱动数据集 |
 | [wh200720041/iscloam](https://github.com/wh200720041/iscloam) | 601 | C++ | 基于环境的强度扫描,实现自动驾驶的全SLAM. |
 | [gogojjh/M-LOAM](https://github.com/gogojjh/M-LOAM) | 507 | C++ | 具有在线外观校准的多立达系统的强大的体测量和绘图 |
 | [giacomo-b/CppRobotics](https://github.com/giacomo-b/CppRobotics) | 492 | C++ | 仅使用标题的C++库用于机器人,控制和路径规划算法.工作正在进行中,欢迎您的贡献! |
+| [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) | 468 | Python | 城市Loco:全传感器套件数据集用于城市场景的绘图和定位 |
 | [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) | 433 | Python | 通过使用Catmull-RomSpline (IROS 2023) 在线单轨路线映射 |
 | [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) | 410 | - | 关于基于点云的位置识别论文列表,也称为SLAM (处理) 中循环关闭检测 |
 | [izhengfan/se2lam](https://github.com/izhengfan/se2lam) | 409 | C++ | 视觉-体测量系统 (ICRA 2019) |
@@ -400,9 +403,6 @@
 | [OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet) | 367 | Python | [ICLR 2024] 带车道段自动驾驶的地图学习 |
 | [berndpfrommer/tagslam](https://github.com/berndpfrommer/tagslam) | 346 | C++ | 附 apriltag 的 SLAM |
 | [TUC-ProAut/libRSF](https://github.com/TUC-ProAut/libRSF) | 329 | C++ | 强大的传感器融合库,用于在线定位. |
-| [sayantann11/all-classification-templetes-for-ML](https://github.com/sayantann11/all-classification-templetes-for-ML) | 283 | Python | 机器学习教程: Classification教程,这是Simplilearn提供的机器学习课程的一部分.我们将学习分类算法,分类算法类型,支... |
-| [ZJU-Robotics-Lab/GEM](https://github.com/ZJU-Robotics-Lab/GEM) | 277 | C++ | 网络全球一致的不结构地形密集高度地图. |
-| [chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020) | 272 | Java | 通知 本存储库包含了SKYSTONE (2019-2020) 竞赛赛季的公共FTC SDK. 如果你正在寻找本赛季的FTC SDK软件,请访... |
 
 ---
 
@@ -411,7 +411,8 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | C++ | 基于Unreal Engine/Unity的自动驾驶汽车开源模拟器,来自微软AI&研究 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,615 | C++ | 开源模拟器用于自动驾驶研究. |
+| [Microsoft/AirSim](https://github.com/microsoft/AirSim) | 17,970 | C++ | 基于Unreal Engine/Unity的自动驾驶汽车开源模拟器,来自微软AI&研究 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | 13,616 | C++ | 开源模拟器用于自动驾驶研究. |
 | [robmarkcole/satellite-image-deep-learning](https://github.com/satellite-image-deep-learning/techniques) | 10,034 | - | 通过卫星和空中图像进行深度学习的技术 |
 | [commaai/research](https://github.com/commaai/research) | 4,123 | Python | 2016年论文"学习驾驶模拟器"数据集和代码 |
 | [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) | 3,980 | C# | 通过"统一"构建的自动驾驶汽车模拟器 |
@@ -419,6 +420,7 @@
 | [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) | 3,864 | - | ️ 卫星图像训练数据集列表,含有计算机视觉和深度学习的注释 |
 | [waymo-research/waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) | 3,241 | Python | 开放数据集 |
 | [nutonomy/nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) | 2,676 | Python | 关于"nuScenes"数据集的开发套件. |
+| [simbody/simbody](https://github.com/simbody/simbody) | 2,497 | C++ | 高性能C++多体动态/物理库,用于模拟汽车,机器人和人类骨等关节生物机械和机械系统. |
 | [lgsvl/simulator](https://github.com/lgsvl/simulator) | 2,424 | C# | 无人驾驶汽车的ROS/ROS2多机器人模拟器 |
 | [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) | 2,413 | Jupyter Notebook | 无人驾驶场景,教程和演示 |
 | [xinshuoweng/AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) | 1,819 | Python | (IROS 2020,ECCVW 2020) 官方 Python 实现 "3D 多对象跟踪:一个基线和新的评估指标" |
@@ -429,6 +431,7 @@
 | [flow-project/flow](https://github.com/flow-project/flow) | 1,177 | Python | 交通管制的强化学习计算框架 |
 | [aitorzip/DeepGTAV](https://github.com/aitorzip/DeepGTAV) | 1,174 | C++ | 让它成为一个基于视觉的自动驾驶汽车研究环境. |
 | [ucla-mobility/OpenCDA](https://github.com/ucla-mobility/OpenCDA) | 1,145 | Python | 在CARLA+SUMO下,一个通用框架用于原型的全堆合作驾驶自动化应用. |
+| [metadriverse/metadrive](https://github.com/metadriverse/metadrive) | 1,112 | Python | 微型驾驶模拟器 |
 | [huawei-noah/SMARTS](https://github.com/huawei-noah/SMARTS) | 1,108 | Python | 可扩展的多代理RL自动驾驶培训学校 |
 | [GENIVI/CANdevStudio](https://github.com/GENIVI/CANdevStudio) | 1,105 | C++ | 发展工具用于CAN巴士模拟 |
 | [waymo-research/waymax](https://github.com/waymo-research/waymax) | 1,040 | Python | 基于JAX的模拟器用于自动驾驶研究. |
@@ -447,9 +450,6 @@
 | [JIA-Lab-research/VoxelNeXt](https://github.com/JIA-Lab-research/VoxelNeXt) | 854 | Python | 长距离3D感知 - VoxelNeXt (CVPR 2023) |
 | [tomas789/kitti2bag](https://github.com/tomas789/kitti2bag) | 805 | Python | 简单的方式将KITTI数据集转换为ROS包文件! |
 | [bethesirius/ChosunTruck](https://github.com/bethesirius/ChosunTruck) | 736 | Python | 欧洲卡车模拟器2自动驾驶解决方案 |
-| [hasanirtiza/Pedestron](https://github.com/hasanirtiza/Pedestron) | 703 | Python | 子在房间里. @CVPR2021 |
-| [uzh-rpg/rpg_esim](https://github.com/uzh-rpg/rpg_esim) | 697 | C | 开放事件摄像头模拟器 |
-| [OPEN-AIR-SUN/mars](https://github.com/OPEN-AIR-SUN/mars) | 682 | Python | 马斯:一个自动驾驶的实例知情,模块化和现实模拟器 |
 
 ---
 
@@ -458,14 +458,17 @@
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
 | [ocornut/imgui](https://github.com/ocornut/imgui) | 71,623 | C++ | 亲爱的ImGui:C++的无图形用户界面, |
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 60,185 | Python | 现在,它正在升级300多辆支持的驾驶员辅助系统. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 60,192 | Python | 现在,它正在升级300多辆支持的驾驶员辅助系统. |
 | [mattermost/mattermost-server](https://github.com/mattermost/mattermost) | 35,534 | TypeScript | 对于整个软件开发生命周期,Mattermost是一个开源平台, |
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,451 | C++ | 开放的自动驾驶平台 |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | 26,452 | C++ | 开放的自动驾驶平台 |
 | [ceph/ceph](https://github.com/ceph/ceph) | 16,280 | C++ | Ceph是一个分布式对象,区块和文件存储平台 |
 | [emqx/emqx](https://github.com/emqx/emqx) | 15,972 | Erlang | 智能化,物联网,IIoT和连接车辆最可扩展和最可靠的MQTT经纪人 |
 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 14,576 | C++ | 机器人,机器人,机器人,机器人 |
 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 13,660 | Python | 软件的框架可以轻松编写小测试,但可以支持复杂的功能测试 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,129 | Dockerfile | 汽车软件 - - 世界上领先的自动驾驶开源软件项目 |
+| [PX4/Firmware](https://github.com/PX4/PX4-Autopilot) | 11,170 | C++ | 专用驾驶软件 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | 汽车软件 - - 世界上领先的自动驾驶开源软件项目 |
+| [CPFL/Autoware](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | 汽车软件 - - 世界上领先的自动驾驶开源软件项目 |
+| [Autoware-AI/autoware.ai](https://github.com/autowarefoundation/autoware) | 11,131 | Dockerfile | 汽车软件 - - 世界上领先的自动驾驶开源软件项目 |
 | [giampaolo/psutil](https://github.com/giampaolo/psutil) | 11,099 | Python | 跨平台lib用于Python中的进程和系统监控 |
 | [nasa/fprime](https://github.com/nasa/fprime) | 10,784 | C++ | F ́ - 飞行软件和嵌入式系统框架 |
 | [Leantime/leantime](https://github.com/Leantime/leantime) | 9,335 | PHP | 利安蒂姆是一个针对非项目经理的目标的项目管理系统. |
@@ -474,6 +477,7 @@
 | [facontidavide/PlotJuggler](https://github.com/facontidavide/PlotJuggler) | 5,731 | C++ | 你应该得到的时间系列视觉工具. |
 | [thrust/thrust](https://github.com/NVIDIA/thrust) | 4,997 | C++ | 们可以看到这些数据. |
 | [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) | 4,267 | Python | 跨平台包来执行类似诅咒的操作,以及更高水平的API和wijet创建文本UI和ASCII艺术动画 |
+| [cyberbotics/webots](https://github.com/cyberbotics/webots) | 4,168 | C++ | 网络机器人模拟器 |
 | [shobrook/rebound](https://github.com/shobrook/rebound) | 4,132 | Python | 每当一个例外投放时,即时堆积过度流动结果 |
 | [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) | 4,061 | - | 编辑列表的可爱的C++仅供标题库 |
 | [facebookresearch/ReAgent](https://github.com/facebookresearch/ReAgent) | 3,684 | Python | 推理系统的平台 (加强学习,背景盗窃等) |
@@ -481,6 +485,7 @@
 | [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3,214 | Swift | 开放Bot 利用智能手机作为低成本机器人的大脑.我们设计了一个小型电动车,价格约为50美元,并作为机器人机身.我们的安卓智能手机软件堆支持先... |
 | [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio) | 3,133 | C++ | 快速和灵活地实施固体动力学算法及其分析衍生品 |
 | [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo) | 2,451 | - | 波罗笔记 - - 波罗学习笔记 |
+| [daohu527/Dig-into-Apollo](https://github.com/daohu527/dig-into-apollo) | 2,451 | - | 波罗笔记 - - 波罗学习笔记 |
 | [MicrosoftDocs/live-share](https://github.com/microsoft/live-share) | 2,362 | - | 从你最喜欢的工具的舒适度上,实时合作开发 |
 | [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) | 2,308 | C++ | 您的系统中使用C++标准库. |
 | [casadi/casadi](https://github.com/casadi/casadi) | 2,147 | C++ | CasADi是数字优化的一个象征框架,在稀有矩阵值计算图表上实现前进和反转模式中的自动差异化.它支持自主C码生成,并接口SUNDIALS,I... |
@@ -492,11 +497,6 @@
 | [robin-shaun/XTDrone](https://github.com/robin-shaun/XTDrone) | 1,567 | C++ | 基于PX4,ROS和Gazebo的无人机模拟平台 |
 | [autowarefoundation/autoware_universe](https://github.com/autowarefoundation/autoware_universe) | 1,525 | C++ |  |
 | [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) | 1,519 | C++ | 基于QT的跨平台布工具 |
-| [intercellular/cell](https://github.com/intercellular/cell) | 1,505 | JavaScript | 自动驾驶网络应用程序框架 |
-| [naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS) | 1,076 | JavaScript | 无人驾驶3D点云注释平台 |
-| [eclipse-ecal/ecal](https://github.com/eclipse-ecal/ecal) | 978 | C++ |  eCAL - 增强通信抽象层. 一个高性能的发布订阅,客户端-服务器跨平台中间件. |
-| [dusty-nv/ros_deep_learning](https://github.com/dusty-nv/ros_deep_learning) | 966 | C++ | 支持NVIDIA Jetson和TensorRT的ROS/ROS2的深度学习推断节点 |
-| [uber/neuropod](https://github.com/uber/neuropod) | 940 | C++ | 通过多个框架运行深度学习模型的均接口 |
 
 ---
 
@@ -504,7 +504,7 @@
 
 | 项目 | ⭐ | 语言 | 描述 |
 |------|---:|:----:|------|
-| [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,321 | C | 华为蒙分布式操作系统(华为HarmonyOS,纯血蒙Harmony 下一个),开源蒙分布式操作系统(OpenHarmony) 开发技术交流,... |
+| [fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony) | 1,322 | C | 华为蒙分布式操作系统(华为HarmonyOS,纯血蒙Harmony 下一个),开源蒙分布式操作系统(OpenHarmony) 开发技术交流,... |
 | [DerrickXuNu/OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) | 794 | Python | [ICRA 2022] 合作检测的开源框架. |
 | [AIR-THU/DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) | 592 | Python |  |
 | [Little-Podi/Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) | 584 | - | 这里是关于V2I/V2V/V2X自动驾驶场景的合作/合作/多代理感知近期进展的文件摘要. |
@@ -540,8 +540,8 @@
 | [ucla-mobility/V2X-Real](https://github.com/ucla-mobility/V2X-Real) | 62 | Python | [ECCV 2024] "V2X-Real:大型数据集用于车辆到一切合作感知"论文的官方代码基础 |
 | [rruisong/Awesome-Federated-Learning-for-Autonomous-Driving](https://github.com/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving) | 61 | - | 独立驾驶 (AD),智能交通系统 (ITS),连接和自动驾驶汽车 (CAV) 的FedML |
 | [pytoyoda/pytoyoda](https://github.com/pytoyoda/pytoyoda) | 58 | Python | 托约塔连接服务API欧洲的Python客户端 |
+| [taco-group/STAMP](https://github.com/taco-group/STAMP) | 57 | Python | [ICLR'25] STAMP的正式实施:可扩展任务和模型无知协作感知 |
 | [fravw/RL_VPP_Thesis](https://github.com/fravw/RL_VPP_Thesis) | 57 | Jupyter Notebook | 论文基于开发一个通过电动汽车充电站管理电力资源系统的RL代理.电力资源系统的主要优化目标是:谷谷填充和峰值剃须.实现目标的主要行动是:高需求... |
-| [taco-group/STAMP](https://github.com/taco-group/STAMP) | 56 | Python | [ICLR'25] STAMP的正式实施:可扩展任务和模型无知协作感知 |
 | [taco-group/AirV2X-Perception](https://github.com/taco-group/AirV2X-Perception) | 54 | Python | 官方实施AirV2X:统一的空地与车辆与一切合作 |
 | [EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards](https://github.com/EnnaSachdeva/Recurrent-Multiagent-Deep-Deterministic-Policy-Gradient-with-Difference-Rewards) | 53 | Python | 深度强化学习 (DRL) 算法已成功应用于一系列具有挑战性的模拟连续控制单代理任务.这些方法进一步扩展到合作,竞争或混合环境中的多代理领域.... |
 
@@ -565,17 +565,19 @@
 | [TUMFTM/CameraRadarFusionNet](https://github.com/TUMFTM/CameraRadarFusionNet) | 444 | Python |  |
 | [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion) | 397 | - | 自动驾驶中的雷达摄像头融合 |
 | [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) | 387 | Python | [ICRA 2024] 超级融合:多级LIDAR-摄像头融合用于长距离高清地图生成 |
+| [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) | 349 | C++ | 无重复扫描固态LiDAR和摄像头系统的自动校准 |
 | [AIS-Bonn/rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) | 265 | C++ | 易于使用的工具,可以为rviz相机创建和编辑轨迹. |
 | [VDIGPKU/RCBEVDet](https://github.com/VDIGPKU/RCBEVDet) | 258 | - | [CVPR 2024] RCBEVDet:雷达摄像头融合在3D物体检测的鸟眼镜中 |
 | [chaytonmin/UniScene](https://github.com/chaytonmin/UniScene) | 236 | Python | 官方实施我们RAL'24论文:多摄像头统一自动驾驶预训练 |
 | [epiception/CalibNet](https://github.com/epiception/CalibNet) | 228 | Python | 通过3D空间变压器网络进行自主监督的外部校准 |
 | [SxJyJay/MSMDFusion](https://github.com/SxJyJay/MSMDFusion) | 203 | Python | [CVPR 2023] MSMDFusion:将LiDAR和摄像头结合多尺度的多深度种子用于3D物体检测 |
-| [LJacksonPan/RaTrack](https://github.com/LJacksonPan/RaTrack) | 202 | Python | [ICRA2024] 拉特拉克:使用4D雷达点云进行移动物体检测和跟踪 |
+| [LJacksonPan/RaTrack](https://github.com/LJacksonPan/RaTrack) | 203 | Python | [ICRA2024] 拉特拉克:使用4D雷达点云进行移动物体检测和跟踪 |
 | [uzh-rpg/e2calib](https://github.com/uzh-rpg/e2calib) | 188 | Python | 活动摄像头如何校准 |
 | [Radar-Camera-Fusion/Awesome-Radar-Perception](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception) | 178 | - | 自动驾驶中的雷达感知 |
 | [JokerJohn/UpdatingHDmapByMonoCamera](https://github.com/JokerJohn/UpdatingHDmapByMonoCamera) | 151 | Python | 使用RTK-GPS和单光相机更新高清地图 |
 | [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) | 139 | Python | 实时摄像头-雷达-光线融合检测在ROS模拟中. |
 | [RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection](https://github.com/RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection) | 117 | Python | 雷达传感器和RGB摄像头图像上的物体检测. https://ieeexplore.ieee.org/document/9191046 完整论... |
+| [fudan-zvg/WoVoGen](https://github.com/fudan-zvg/WoVoGen) | 112 | Python | [ECCV 2024] WoVoGen:全球控制式多摄像头驾驶场景生成的量意识扩散 |
 | [mrnabati/RRPN](https://github.com/mrnabati/RRPN) | 105 | Python | 无人驾驶汽车物体检测的雷达区域建议网络 (ICIP 2019) |
 | [TUMFTM/RadarGNN](https://github.com/TUMFTM/RadarGNN) | 101 | Python | 图形神经网络用于雷达点云中的分区和对象检测. |
 | [ika-rwth-aachen/MultiCorrupt](https://github.com/ika-rwth-aachen/MultiCorrupt) | 83 | Jupyter Notebook | [IV2024] 多腐败:为强大的多模式3D对象检测的基准,评估自动驾驶中的LiDAR-摄像头融合模型.包括各种腐败类型 (例如错误排列,错... |
@@ -589,8 +591,6 @@
 | [UCR-CISL/BEVCalib](https://github.com/UCR-CISL/BEVCalib) | 52 | Python | [CoRL 2025] BEVCalib官方 PyTorch实施:通过几何指导的鸟眼视图表示LiDAR-摄像头校准 |
 | [rolsheng/MM-VUFM4DS](https://github.com/rolsheng/MM-VUFM4DS) | 51 | - | IEEE T-IVA系统调查多模式和多任务视觉理解基础模型用于驾驶场景 |
 | [UT18-Senior-Design/Object-Detection-and-Calibrations](https://github.com/UT18-Senior-Design/Object-Detection-and-Calibrations) | 51 | Python | 我们已经编写了用于Lidar摄像头校准的代码, 通过YOLO和VLP-16的输入. |
-| [OanaGaskey/Advanced-Lane-Detection](https://github.com/OanaGaskey/Advanced-Lane-Detection) | 50 | Jupyter Notebook | 计算机视觉算法计算道路曲线和车道车辆偏移,使用OpenCV图像处理,摄像头校准,视角转换,颜色面具,和多项式适应. |
-| [andersy005/self-driving-car-nd](https://github.com/andersy005/self-driving-car-nd) | 49 | Jupyter Notebook | 据悉, 据悉, |
 
 ---
 
@@ -662,4 +662,4 @@ git clone https://github.com/lllray/awesome-autonomous-drivin.git
 
 ---
 
-<p align="center"><sub>✨ 自动整理 · 2026-03-01 18:52:36</sub></p>
+<p align="center"><sub>✨ 自动整理 · 2026-03-02 00:18:13</sub></p>
