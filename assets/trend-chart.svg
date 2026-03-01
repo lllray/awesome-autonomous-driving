@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+<defs><linearGradient id="tbg" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+</linearGradient></defs>
+<rect width="900" height="420" rx="12" fill="url(#tbg)"/>
+<text x="450.0" y="28" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="bold">Awesome Autonomous Driving 收录趋势</text>
+<text x="450.0" y="46" text-anchor="middle" fill="#8b949e" font-size="12">总收录 3238 · 累计新增 3238 · Stars 2,664,523</text>
+<text x="62" y="340.0" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">0</text>
+<line x1="70" y1="340.0" x2="870" y2="340.0" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="62" y="268.8" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">809</text>
+<line x1="70" y1="268.8" x2="870" y2="268.8" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="62" y="197.5" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">1619</text>
+<line x1="70" y1="197.5" x2="870" y2="197.5" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="62" y="126.3" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">2428</text>
+<line x1="70" y1="126.3" x2="870" y2="126.3" stroke="#21262d" stroke-dasharray="4 4"/>
+<text x="62" y="55.0" text-anchor="end" fill="#8b949e" font-size="11" dominant-baseline="middle">3238</text>
+<line x1="70" y1="55.0" x2="870" y2="55.0" stroke="#21262d" stroke-dasharray="4 4"/>
+
+<line x1="70" y1="55" x2="70" y2="340" stroke="#30363d"/>
+<line x1="70" y1="340" x2="870" y2="340" stroke="#30363d"/>
+<path d="M70.0,55.0 L70.0,340 L70.0,340 Z" fill="#58a6ff" opacity="0.12"/>
+<polyline points="70.0,55.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70.0" cy="55.0" r="3" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"/>
+<path d="M70.0,55.0 L70.0,340 L70.0,340 Z" fill="#3fb950" opacity="0.12"/>
+<polyline points="70.0,55.0" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70.0" cy="55.0" r="3" fill="#3fb950" stroke="#0d1117" stroke-width="1.5"/>
+<text x="70.0" y="390" text-anchor="middle" fill="#8b949e" font-size="11">03-01</text>
+
+<rect x="640" y="402" width="12" height="12" rx="2" fill="#58a6ff"/>
+<text x="656" y="412" fill="#8b949e" font-size="11">总数</text>
+<rect x="750" y="402" width="12" height="12" rx="2" fill="#3fb950"/>
+<text x="766" y="412" fill="#8b949e" font-size="11">每日新增</text>
+</svg>
