@@ -1,0 +1,358 @@
+{
+  "date": "2026-03-06",
+  "total_skills": 3310,
+  "total_stars": 2765114,
+  "new_today": 9,
+  "top_gainers": [
+    {
+      "name": "starVLA/starVLA",
+      "stars": 1298,
+      "delta": 73,
+      "url": "https://github.com/starVLA/starVLA",
+      "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing"
+    },
+    {
+      "name": "bjrobotnewbie/VLAExplain",
+      "stars": 88,
+      "delta": 56,
+      "url": "https://github.com/bjrobotnewbie/VLAExplain",
+      "description": "VLA model interpretability tools"
+    },
+    {
+      "name": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "stars": 2657,
+      "delta": 39,
+      "url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches."
+    },
+    {
+      "name": "commaai/openpilot",
+      "stars": 60235,
+      "delta": 36,
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+    },
+    {
+      "name": "autowarefoundation/autoware_vision_pilot",
+      "stars": 334,
+      "delta": 36,
+      "url": "https://github.com/autowarefoundation/autoware_vision_pilot",
+      "description": "Free self-driving car stack - fully open-source ADAS and autonomous driving system"
+    },
+    {
+      "name": "AtsushiSakai/PythonRobotics",
+      "stars": 28799,
+      "delta": 30,
+      "url": "https://github.com/AtsushiSakai/PythonRobotics",
+      "description": "Python sample codes and textbook for robotics algorithms."
+    },
+    {
+      "name": "Robbyant/lingbot-vla",
+      "stars": 891,
+      "delta": 29,
+      "url": "https://github.com/Robbyant/lingbot-vla",
+      "description": "A Pragmatic VLA Foundation Model"
+    },
+    {
+      "name": "ZhengYinan-AIR/Hyper-Diffusion-Planner",
+      "stars": 44,
+      "delta": 26,
+      "url": "https://github.com/ZhengYinan-AIR/Hyper-Diffusion-Planner",
+      "description": "The official implementation of \"Unleashing the Potential of Diffusion Models for End-to-End Autonomous Driving\""
+    },
+    {
+      "name": "leofan90/Awesome-World-Models",
+      "stars": 1290,
+      "delta": 18,
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites."
+    },
+    {
+      "name": "emqx/emqx",
+      "stars": 15994,
+      "delta": 17,
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles"
+    },
+    {
+      "name": "xukechun/BayesVLA",
+      "stars": 31,
+      "delta": 17,
+      "url": "https://github.com/xukechun/BayesVLA",
+      "description": "[arXiv 2025] Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy"
+    },
+    {
+      "name": "dexmal/dexbotic",
+      "stars": 827,
+      "delta": 16,
+      "url": "https://github.com/dexmal/dexbotic",
+      "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
+    },
+    {
+      "name": "MilkClouds/awesome-vla-study",
+      "stars": 153,
+      "delta": 16,
+      "url": "https://github.com/MilkClouds/awesome-vla-study",
+      "description": "A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers in reading order."
+    },
+    {
+      "name": "LMD0311/Awesome-World-Model",
+      "stars": 1872,
+      "delta": 15,
+      "url": "https://github.com/LMD0311/Awesome-World-Model",
+      "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers."
+    },
+    {
+      "name": "microsoft/AirSim",
+      "stars": 17986,
+      "delta": 14,
+      "url": "https://github.com/microsoft/AirSim",
+      "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+    },
+    {
+      "name": "carla-simulator/carla",
+      "stars": 13631,
+      "delta": 14,
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research."
+    },
+    {
+      "name": "Denghaoyuan123/Awesome-RL-VLA",
+      "stars": 551,
+      "delta": 14,
+      "url": "https://github.com/Denghaoyuan123/Awesome-RL-VLA",
+      "description": "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation"
+    },
+    {
+      "name": "waymo-research/waymo-open-dataset",
+      "stars": 3255,
+      "delta": 13,
+      "url": "https://github.com/waymo-research/waymo-open-dataset",
+      "description": "Waymo Open Dataset"
+    },
+    {
+      "name": "cover-vla/cover-vla",
+      "stars": 37,
+      "delta": 12,
+      "url": "https://github.com/cover-vla/cover-vla",
+      "description": "This is the official codebase for paper: Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment"
+    },
+    {
+      "name": "autowarefoundation/autoware",
+      "stars": 11150,
+      "delta": 11,
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving"
+    },
+    {
+      "name": "ShisatoYano/AutonomousVehicleControlBeginnersGuide",
+      "stars": 1452,
+      "delta": 11,
+      "url": "https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide",
+      "description": "Python sample codes and documents about Autonomous vehicle control algorithm. This project can be used as a technical guide book to study the algorithms and the software architectures for beginners."
+    },
+    {
+      "name": "ginwind/VLA-JEPA",
+      "stars": 81,
+      "delta": 11,
+      "url": "https://github.com/ginwind/VLA-JEPA",
+      "description": "VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model"
+    },
+    {
+      "name": "open-gigaai/giga-brain-0",
+      "stars": 2388,
+      "delta": 10,
+      "url": "https://github.com/open-gigaai/giga-brain-0",
+      "description": "GigaBrain-0: A World Model-Powered Vision-Language-Action Model"
+    },
+    {
+      "name": "Thinklab-SJTU/Awesome-LLM4AD",
+      "stars": 1702,
+      "delta": 10,
+      "url": "https://github.com/Thinklab-SJTU/Awesome-LLM4AD",
+      "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)"
+    },
+    {
+      "name": "sylvestf/LIBERO-plus",
+      "stars": 237,
+      "delta": 10,
+      "url": "https://github.com/sylvestf/LIBERO-plus",
+      "description": "Official repository of LIBERO-plus, a generalized benchmark for in-depth robustness analysis of vision-language-action models."
+    },
+    {
+      "name": "ustcwhy/BitVLA",
+      "stars": 116,
+      "delta": 10,
+      "url": "https://github.com/ustcwhy/BitVLA",
+      "description": "Official implementation for BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation"
+    },
+    {
+      "name": "flowdriveai/flowpilot",
+      "stars": 2016,
+      "delta": 9,
+      "url": "https://github.com/flowdriveai/flowpilot",
+      "description": "flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines."
+    },
+    {
+      "name": "hustvl/VAD",
+      "stars": 1244,
+      "delta": 9,
+      "url": "https://github.com/hustvl/VAD",
+      "description": "[ICCV 2023 & ICLR 2026] VAD: Vectorized Scene Representation for Efficient Autonomous Driving"
+    },
+    {
+      "name": "worldbench/awesome-3d-4d-world-models",
+      "stars": 839,
+      "delta": 9,
+      "url": "https://github.com/worldbench/awesome-3d-4d-world-models",
+      "description": "🌐 3D and 4D World Modeling: A Survey"
+    },
+    {
+      "name": "InternRobotics/InternNav",
+      "stars": 705,
+      "delta": 9,
+      "url": "https://github.com/InternRobotics/InternNav",
+      "description": "InternRobotics' open platform for building generalized navigation foundation models."
+    },
+    {
+      "name": "ucla-mobility/AutoVLA",
+      "stars": 422,
+      "delta": 9,
+      "url": "https://github.com/ucla-mobility/AutoVLA",
+      "description": "[NeurIPS 2025] AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning"
+    },
+    {
+      "name": "worldbench/awesome-vla-for-ad",
+      "stars": 317,
+      "delta": 9,
+      "url": "https://github.com/worldbench/awesome-vla-for-ad",
+      "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future"
+    },
+    {
+      "name": "DravenALG/awesome-vla",
+      "stars": 70,
+      "delta": 9,
+      "url": "https://github.com/DravenALG/awesome-vla",
+      "description": "A Curated List of Vision-Language-Action (VLA) Research"
+    },
+    {
+      "name": "OpenHelix-Team/VLA-Adapter",
+      "stars": 2014,
+      "delta": 8,
+      "url": "https://github.com/OpenHelix-Team/VLA-Adapter",
+      "description": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
+    },
+    {
+      "name": "autowarefoundation/autoware_universe",
+      "stars": 1533,
+      "delta": 8,
+      "url": "https://github.com/autowarefoundation/autoware_universe",
+      "description": ""
+    },
+    {
+      "name": "hustvl/DiffusionDrive",
+      "stars": 1300,
+      "delta": 8,
+      "url": "https://github.com/hustvl/DiffusionDrive",
+      "description": "[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving"
+    },
+    {
+      "name": "AnjieCheng/NaVILA",
+      "stars": 536,
+      "delta": 8,
+      "url": "https://github.com/AnjieCheng/NaVILA",
+      "description": "[RSS'25] This repository is the implementation of \"NaVILA: Legged Robot Vision-Language-Action Model for Navigation\""
+    },
+    {
+      "name": "Psi-Robot/Awesome-VLA-Papers",
+      "stars": 463,
+      "delta": 8,
+      "url": "https://github.com/Psi-Robot/Awesome-VLA-Papers",
+      "description": "Paper list in the survey: A Survey on Vision-Language-Action Models: An Action Tokenization Perspective"
+    },
+    {
+      "name": "WM-PO/WMPO",
+      "stars": 176,
+      "delta": 8,
+      "url": "https://github.com/WM-PO/WMPO",
+      "description": "Official Implementation of Paper: WMPO: World Model-based Policy Optimization for Vision-Language-Action Models"
+    },
+    {
+      "name": "xiaomi-mlab/MindDrive",
+      "stars": 175,
+      "delta": 8,
+      "url": "https://github.com/xiaomi-mlab/MindDrive",
+      "description": "Official code of “MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning”"
+    },
+    {
+      "name": "sou350121/VLA-Handbook",
+      "stars": 59,
+      "delta": 8,
+      "url": "https://github.com/sou350121/VLA-Handbook",
+      "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战"
+    },
+    {
+      "name": "Farama-Foundation/HighwayEnv",
+      "stars": 3189,
+      "delta": 7,
+      "url": "https://github.com/Farama-Foundation/HighwayEnv",
+      "description": "A minimalist environment for decision-making in autonomous driving"
+    },
+    {
+      "name": "allenzren/open-pi-zero",
+      "stars": 1404,
+      "delta": 7,
+      "url": "https://github.com/allenzren/open-pi-zero",
+      "description": "Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence"
+    },
+    {
+      "name": "LucasAlegre/sumo-rl",
+      "stars": 999,
+      "delta": 7,
+      "url": "https://github.com/LucasAlegre/sumo-rl",
+      "description": "Reinforcement Learning environments for Traffic Signal Control with SUMO. Compatible with Gymnasium, PettingZoo, and popular RL libraries."
+    },
+    {
+      "name": "MINT-SJTU/Evo-1",
+      "stars": 222,
+      "delta": 7,
+      "url": "https://github.com/MINT-SJTU/Evo-1",
+      "description": "Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment"
+    },
+    {
+      "name": "TUM-AVS/FM-AD-Survey",
+      "stars": 173,
+      "delta": 7,
+      "url": "https://github.com/TUM-AVS/FM-AD-Survey",
+      "description": "This repository collects research papers of large Foundation Models for Scenario Generation and Analysis in Autonomous Driving. The repository will be continuously updated to track the latest update."
+    },
+    {
+      "name": "shihao1895/MemoryVLA",
+      "stars": 165,
+      "delta": 7,
+      "url": "https://github.com/shihao1895/MemoryVLA",
+      "description": "[ICLR 2026] Code of \"MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation\""
+    },
+    {
+      "name": "ApolloAuto/apollo",
+      "stars": 26458,
+      "delta": 6,
+      "url": "https://github.com/ApolloAuto/apollo",
+      "description": "An open autonomous driving platform"
+    },
+    {
+      "name": "open-mmlab/OpenPCDet",
+      "stars": 5473,
+      "delta": 6,
+      "url": "https://github.com/open-mmlab/OpenPCDet",
+      "description": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection."
+    },
+    {
+      "name": "ob-f/OpenBot",
+      "stars": 3221,
+      "delta": 6,
+      "url": "https://github.com/ob-f/OpenBot",
+      "description": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation."
+    }
+  ]
+}
