@@ -1,11 +1,11 @@
-# 每周报告 2026-03-20
+# 每周报告 2026-03-27
 - 仓库: Awesome Autonomous Driving
-- 本周新增: 37 | 总数: 3347 | Stars: 2,775,850
+- 本周新增: 44 | 总数: 3369 | Stars: 2,779,506
 - 链接: https://github.com/lllray/awesome-autonomous-drivin
 
 ## 热门 Top 5
-1. [InternRobotics/F1-VLA](https://github.com/InternRobotics/F1-VLA) +158⭐ — F1: A Vision Language Action Model Bridging Understanding and Generation to Acti
-2. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) +103⭐ — Autoware - the world's leading open-source software project for autonomous drivi
-3. [commaai/openpilot](https://github.com/commaai/openpilot) +78⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
-4. [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) +76⭐ — A curated list of state-of-the-art research in embodied AI, focusing on vision-l
-5. [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) +72⭐ — Python sample codes and textbook for robotics algorithms.
+1. [allenai/vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness) +83⭐ — One framework to evaluate any VLA model on any robot simulation benchmark.
+2. [OpenDCAI/OpenWorldLib](https://github.com/OpenDCAI/OpenWorldLib) +79⭐ — Unified Codebase for Advanced World Models.
+3. [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) +71⭐ — Python sample codes and textbook for robotics algorithms.
+4. [commaai/openpilot](https://github.com/commaai/openpilot) +63⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
+5. [adept-thu/DIVER](https://github.com/adept-thu/DIVER) +62⭐ — DIVER: Reinforced Diffusion Breaks Imitation Bottlenecks in End-to-End Autonomou
