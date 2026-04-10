@@ -1,11 +1,11 @@
-# Weekly Report 2026-04-03
+# Weekly Report 2026-04-10
 - Repo: Awesome Autonomous Driving
-- New: 43 | Total: 3390 | Stars: 2,782,857
+- New: 39 | Total: 3408 | Stars: 2,788,395
 - Link: https://github.com/lllray/awesome-autonomous-drivin
 
 ## Top 5 Trending
-1. [commaai/openpilot](https://github.com/commaai/openpilot) +70⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
-2. [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) +60⭐ — Python sample codes and textbook for robotics algorithms.
-3. [OpenDCAI/OpenWorldLib](https://github.com/OpenDCAI/OpenWorldLib) +52⭐ — Unified Codebase for Advanced World Models.
-4. [BUAA-RickyLi/MapDistill](https://github.com/BUAA-RickyLi/MapDistill) +50⭐ — [ECCV'24] MapDistill: Boosting Efficient Camera-based HD Map Construction via Ca
-5. [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) +47⭐ — A curated list of state-of-the-art research in embodied AI, focusing on vision-l
+1. [OpenDCAI/OpenWorldLib](https://github.com/OpenDCAI/OpenWorldLib) +244⭐ — Unified Codebase for Advanced World Models.
+2. [starVLA/starVLA](https://github.com/starVLA/starVLA) +167⭐ — StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
+3. [xiaomi-research/unidrivevla](https://github.com/xiaomi-research/unidrivevla) +78⭐ — UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonom
+4. [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) +63⭐ — Python sample codes and textbook for robotics algorithms.
+5. [commaai/openpilot](https://github.com/commaai/openpilot) +51⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
