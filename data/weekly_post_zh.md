@@ -1,11 +1,11 @@
-# 每周报告 2026-06-12
+# 每周报告 2026-06-19
 - 仓库: Awesome Autonomous Driving
-- 本周新增: 44 | 总数: 3565 | Stars: 2,833,995
+- 本周新增: 40 | 总数: 3582 | Stars: 2,836,850
 - 链接: https://github.com/lllray/awesome-autonomous-drivin
 
 ## 热门 Top 5
-1. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) +727⭐ — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
-2. [nv-tlabs/omni-dreams](https://github.com/nv-tlabs/omni-dreams) +93⭐ — NVIDIA OmniDreams is a world model that generates photorealistic video for auton
-3. [starVLA/starVLA](https://github.com/starVLA/starVLA) +89⭐ — StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
-4. [ginwind/VLA-JEPA](https://github.com/ginwind/VLA-JEPA) +74⭐ — VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
-5. [commaai/openpilot](https://github.com/commaai/openpilot) +70⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
+1. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) +373⭐ — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
+2. [commaai/openpilot](https://github.com/commaai/openpilot) +93⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver
+3. [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) +65⭐ — Python sample codes and textbook for robotics algorithms.
+4. [starVLA/starVLA](https://github.com/starVLA/starVLA) +63⭐ — StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing
+5. [Robbyant/lingbot-vla](https://github.com/Robbyant/lingbot-vla) +43⭐ — A Pragmatic VLA Foundation Model
