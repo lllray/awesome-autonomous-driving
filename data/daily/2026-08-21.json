@@ -1,0 +1,358 @@
+{
+  "date": "2026-08-21",
+  "total_skills": 3718,
+  "total_stars": 2906456,
+  "new_today": 15,
+  "top_gainers": [
+    {
+      "name": "vectorize-io/self-driving-agents",
+      "stars": 2738,
+      "delta": 477,
+      "url": "https://github.com/vectorize-io/self-driving-agents",
+      "description": ""
+    },
+    {
+      "name": "PostHog/posthog",
+      "stars": 38143,
+      "delta": 468,
+      "url": "https://github.com/PostHog/posthog",
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "H-EmbodVis/SimWAM",
+      "stars": 152,
+      "delta": 98,
+      "url": "https://github.com/H-EmbodVis/SimWAM",
+      "description": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving."
+    },
+    {
+      "name": "sii-research/tau-0-vla",
+      "stars": 512,
+      "delta": 86,
+      "url": "https://github.com/sii-research/tau-0-vla",
+      "description": "This repo is the official implementation of  \"τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation\"."
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "stars": 11579,
+      "delta": 72,
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more."
+    },
+    {
+      "name": "dexmal/opendm",
+      "stars": 304,
+      "delta": 65,
+      "url": "https://github.com/dexmal/opendm",
+      "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence."
+    },
+    {
+      "name": "commaai/openpilot",
+      "stars": 63464,
+      "delta": 58,
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+    },
+    {
+      "name": "datawhalechina/dive-into-embodied-ai",
+      "stars": 314,
+      "delta": 54,
+      "url": "https://github.com/datawhalechina/dive-into-embodied-ai",
+      "description": "从零到一搭建一台具身智能机器人:深入强化学习、World-Model、VLA 等智能决策方法的工程落地,贯穿仿真环境、控制器、运动规划、感知系统等技能树模块,并在真实项目中跑通\"决策—控制—感知\"完整链路。"
+    },
+    {
+      "name": "dexmal/dexbotic",
+      "stars": 1389,
+      "delta": 46,
+      "url": "https://github.com/dexmal/dexbotic",
+      "description": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
+    },
+    {
+      "name": "baidu-baige/LoongForge",
+      "stars": 448,
+      "delta": 45,
+      "url": "https://github.com/baidu-baige/LoongForge",
+      "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+    },
+    {
+      "name": "starVLA/starVLA",
+      "stars": 3500,
+      "delta": 42,
+      "url": "https://github.com/starVLA/starVLA",
+      "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing"
+    },
+    {
+      "name": "ob-f/OpenBot",
+      "stars": 3411,
+      "delta": 37,
+      "url": "https://github.com/ob-f/OpenBot",
+      "description": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation."
+    },
+    {
+      "name": "AtsushiSakai/PythonRobotics",
+      "stars": 30341,
+      "delta": 35,
+      "url": "https://github.com/AtsushiSakai/PythonRobotics",
+      "description": "Python sample codes and textbook for robotics algorithms."
+    },
+    {
+      "name": "evan-steinhilb/md2hd",
+      "stars": 120,
+      "delta": 32,
+      "url": "https://github.com/evan-steinhilb/md2hd",
+      "description": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships."
+    },
+    {
+      "name": "emqx/emqx",
+      "stars": 16647,
+      "delta": 28,
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles"
+    },
+    {
+      "name": "sou350121/VLA-Handbook",
+      "stars": 530,
+      "delta": 24,
+      "url": "https://github.com/sou350121/VLA-Handbook",
+      "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战"
+    },
+    {
+      "name": "open-gigaai/giga-brain-0",
+      "stars": 2584,
+      "delta": 22,
+      "url": "https://github.com/open-gigaai/giga-brain-0",
+      "description": "GigaBrain-0: A World Model-Powered Vision-Language-Action Model"
+    },
+    {
+      "name": "autowarefoundation/vision_pilot",
+      "stars": 846,
+      "delta": 22,
+      "url": "https://github.com/autowarefoundation/vision_pilot",
+      "description": "Free and fully open-source L2 ADAS stack powered by End-to-End AI technology"
+    },
+    {
+      "name": "allenai/vla-evaluation-harness",
+      "stars": 552,
+      "delta": 20,
+      "url": "https://github.com/allenai/vla-evaluation-harness",
+      "description": "One framework to evaluate any VLA model on any robot simulation benchmark."
+    },
+    {
+      "name": "autowarefoundation/autoware",
+      "stars": 12004,
+      "delta": 19,
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving"
+    },
+    {
+      "name": "Robbyant/lingbot-vla",
+      "stars": 1764,
+      "delta": 19,
+      "url": "https://github.com/Robbyant/lingbot-vla",
+      "description": "A Pragmatic VLA Foundation Model"
+    },
+    {
+      "name": "mingti-org/phyai",
+      "stars": 102,
+      "delta": 19,
+      "url": "https://github.com/mingti-org/phyai",
+      "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-device deployment."
+    },
+    {
+      "name": "ZebinX/DriveVLA-M0",
+      "stars": 29,
+      "delta": 17,
+      "url": "https://github.com/ZebinX/DriveVLA-M0",
+      "description": "The official repo of DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving (ACM MM2026)"
+    },
+    {
+      "name": "NVlabs/alpamayo2",
+      "stars": 197,
+      "delta": 16,
+      "url": "https://github.com/NVlabs/alpamayo2",
+      "description": "NVIDIA Alpamayo 2 Super is an open 34B multi-task foundation model designed to supercharge autonomous vehicle development."
+    },
+    {
+      "name": "happyhj/waymo-perception-studio",
+      "stars": 38,
+      "delta": 16,
+      "url": "https://github.com/happyhj/waymo-perception-studio",
+      "description": "Waymo Open Dataset on browser visualization tool"
+    },
+    {
+      "name": "carla-simulator/carla",
+      "stars": 14310,
+      "delta": 15,
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research."
+    },
+    {
+      "name": "leofan90/Awesome-World-Models",
+      "stars": 1972,
+      "delta": 15,
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites."
+    },
+    {
+      "name": "hetolin/PoseVLA",
+      "stars": 81,
+      "delta": 15,
+      "url": "https://github.com/hetolin/PoseVLA",
+      "description": "Universal Pose Pretraining for Generalizable Vision-Language-Action Policies(RSS2026)"
+    },
+    {
+      "name": "NVlabs/alpasim",
+      "stars": 1190,
+      "delta": 14,
+      "url": "https://github.com/NVlabs/alpasim",
+      "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies"
+    },
+    {
+      "name": "H-EmbodVis/TurboVLA",
+      "stars": 453,
+      "delta": 13,
+      "url": "https://github.com/H-EmbodVis/TurboVLA",
+      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
+    },
+    {
+      "name": "microsoft/AirSim",
+      "stars": 18412,
+      "delta": 12,
+      "url": "https://github.com/microsoft/AirSim",
+      "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+    },
+    {
+      "name": "InternRobotics/InternNav",
+      "stars": 1052,
+      "delta": 12,
+      "url": "https://github.com/InternRobotics/InternNav",
+      "description": "InternRobotics' open platform for building generalized navigation foundation models."
+    },
+    {
+      "name": "FastCrest/reflex-vla",
+      "stars": 57,
+      "delta": 12,
+      "url": "https://github.com/FastCrest/reflex-vla",
+      "description": "Deploy any VLA model to any edge GPU with one command. Verified cos=+1.0 ONNX parity. Open source."
+    },
+    {
+      "name": "eclipse-sumo/sumo",
+      "stars": 4140,
+      "delta": 11,
+      "url": "https://github.com/eclipse-sumo/sumo",
+      "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation."
+    },
+    {
+      "name": "LMD0311/Awesome-World-Model",
+      "stars": 2218,
+      "delta": 11,
+      "url": "https://github.com/LMD0311/Awesome-World-Model",
+      "description": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers."
+    },
+    {
+      "name": "alibaba-damo-academy/RynnVLA-002",
+      "stars": 1117,
+      "delta": 10,
+      "url": "https://github.com/alibaba-damo-academy/RynnVLA-002",
+      "description": "RynnVLA-002: A Unified Vision-Language-Action and World Model"
+    },
+    {
+      "name": "luohongk/Embodied-AI-Daily",
+      "stars": 430,
+      "delta": 10,
+      "url": "https://github.com/luohongk/Embodied-AI-Daily",
+      "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文"
+    },
+    {
+      "name": "open-h/data-collection",
+      "stars": 82,
+      "delta": 10,
+      "url": "https://github.com/open-h/data-collection",
+      "description": "Open-H-Embodiment is a community‑driven dataset initiative building the open, shared foundation needed to train and evaluate a generalist Vision‑Language‑Action (VLA) model for healthcare robotics"
+    },
+    {
+      "name": "Ly0n/awesome-robotic-tooling",
+      "stars": 3884,
+      "delta": 9,
+      "url": "https://github.com/Ly0n/awesome-robotic-tooling",
+      "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace."
+    },
+    {
+      "name": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "stars": 3470,
+      "delta": 9,
+      "url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches."
+    },
+    {
+      "name": "NVlabs/alpamayo",
+      "stars": 1999,
+      "delta": 9,
+      "url": "https://github.com/NVlabs/alpamayo",
+      "description": "NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation reasoning."
+    },
+    {
+      "name": "autowarefoundation/autoware_universe",
+      "stars": 1735,
+      "delta": 9,
+      "url": "https://github.com/autowarefoundation/autoware_universe",
+      "description": ""
+    },
+    {
+      "name": "nv-tlabs/omni-dreams",
+      "stars": 313,
+      "delta": 9,
+      "url": "https://github.com/nv-tlabs/omni-dreams",
+      "description": "NVIDIA OmniDreams is a world model that generates photorealistic video for autonomous-driving simulation in real time."
+    },
+    {
+      "name": "avanturist322/awesome-memory-vla",
+      "stars": 121,
+      "delta": 9,
+      "url": "https://github.com/avanturist322/awesome-memory-vla",
+      "description": "Awesome Memory-VLA: A curated list of Visual-Language-Action models with memory"
+    },
+    {
+      "name": "ros-claw/rosclaw",
+      "stars": 81,
+      "delta": 9,
+      "url": "https://github.com/ros-claw/rosclaw",
+      "description": "The \"AUTOSAR + Android\" for Embodied AI. An OS-level framework bridging LLMs with high-frequency ROS/VLA control, enabling \"Write Once, Embody Anywhere\" robotics and autonomous data flywheels."
+    },
+    {
+      "name": "DravenALG/awesome-vla",
+      "stars": 70,
+      "delta": 9,
+      "url": "https://github.com/DravenALG/awesome-vla",
+      "description": "A Curated List of Vision-Language-Action (VLA) Research"
+    },
+    {
+      "name": "alaliqing/AlphaAD",
+      "stars": 30,
+      "delta": 9,
+      "url": "https://github.com/alaliqing/AlphaAD",
+      "description": "🚗 Automatically curated collection of the latest autonomous driving research papers from arXiv. Updated daily with   categorized papers on perception, planning, control, and more."
+    },
+    {
+      "name": "sunnypilot/sunnypilot",
+      "stars": 2061,
+      "delta": 8,
+      "url": "https://github.com/sunnypilot/sunnypilot",
+      "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible."
+    },
+    {
+      "name": "hustvl/VAD",
+      "stars": 1362,
+      "delta": 8,
+      "url": "https://github.com/hustvl/VAD",
+      "description": "[ICCV 2023 & ICLR 2026] VAD: Vectorized Scene Representation for Efficient Autonomous Driving"
+    },
+    {
+      "name": "DravenALG/awesome-vla-wam",
+      "stars": 970,
+      "delta": 8,
+      "url": "https://github.com/DravenALG/awesome-vla-wam",
+      "description": "A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond"
+    }
+  ]
+}
