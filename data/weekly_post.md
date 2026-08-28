@@ -1,11 +1,11 @@
-# Weekly Report 2026-08-21
+# Weekly Report 2026-08-28
 - Repo: Awesome Autonomous Driving
-- New: 28 | Total: 3718 | Stars: 2,906,456
+- New: 26 | Total: 3729 | Stars: 2,910,995
 - Link: https://github.com/lllray/awesome-autonomous-drivin
 
 ## Top 5 Trending
-1. [PostHog/posthog](https://github.com/PostHog/posthog) +468⭐ — :hedgehog: PostHog is the leading platform for building self-driving products. O
-2. [H-EmbodVis/SimWAM](https://github.com/H-EmbodVis/SimWAM) +98⭐ — SimWAM: A Simple World Action Model for End-to-End Autonomous Driving.
-3. [sii-research/tau-0-vla](https://github.com/sii-research/tau-0-vla) +86⭐ — This repo is the official implementation of  "τ0-VLA: a Hierarchical Robot Found
-4. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) +72⭐ — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
-5. [dexmal/opendm](https://github.com/dexmal/opendm) +65⭐ — An Open-World Foundation Model for General-Purpose Embodied Intelligence.
+1. [PostHog/posthog](https://github.com/PostHog/posthog) +1244⭐ — :hedgehog: PostHog is the leading platform for building self-driving products. O
+2. [dexmal/opendm](https://github.com/dexmal/opendm) +124⭐ — An Open-World Foundation Model for General-Purpose Embodied Intelligence.
+3. [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) +85⭐ — A modular, scalable, and highly efficient training framework for language, multi
+4. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) +84⭐ — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
+5. [sun254667/awesome-egocentric-vision](https://github.com/sun254667/awesome-egocentric-vision) +78⭐ — A curated, learning-friendly list of egocentric (first-person) vision & embodied
