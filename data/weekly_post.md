@@ -1,11 +1,11 @@
-# Weekly Report 2026-09-25
+# Weekly Report 2026-10-02
 - Repo: Awesome Autonomous Driving
-- New: 29 | Total: 3791 | Stars: 2,926,857
+- New: 23 | Total: 3804 | Stars: 2,928,791
 - Link: https://github.com/lllray/awesome-autonomous-drivin
 
 ## Top 5 Trending
-1. [dexmal/dexbotic](https://github.com/dexmal/dexbotic) +1232⭐ — Dexbotic: Open-Source Vision-Language-Action Toolbox
-2. [dexmal/opendm](https://github.com/dexmal/opendm) +729⭐ — An Open-World Foundation Model for General-Purpose Embodied Intelligence.
-3. [MizuhoAOKI/python_simple_mppi](https://github.com/MizuhoAOKI/python_simple_mppi) +88⭐ — Python implementation of MPPI (Model Predictive Path-Integral) controller to und
-4. [PostHog/posthog](https://github.com/PostHog/posthog) +82⭐ — :hedgehog: PostHog is the leading platform for building self-driving products. O
-5. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) +61⭐ — NVIDIA Cosmos is an open platform of world models, datasets, and tools that enab
+1. [PostHog/posthog](https://github.com/PostHog/posthog) +170⭐ — :hedgehog: PostHog is the leading platform for building self-driving products. O
+2. [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) +87⭐ — TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1
+3. [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge) +69⭐ — A modular, scalable, and highly efficient training framework for language, multi
+4. [RadixRootMind/RadixQuantVLA](https://github.com/RadixRootMind/RadixQuantVLA) +66⭐ — RadixQuantVLA is a unified, Lego-like framework for post-training quantization, 
+5. [commaai/openpilot](https://github.com/commaai/openpilot) +65⭐ — openpilot is an operating system for robotics. Currently, it upgrades the driver

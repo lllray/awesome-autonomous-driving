@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-02",
+  "total_skills": 3804,
+  "total_stars": 2928791,
+  "new_today": 13,
+  "top_gainers": [
+    {
+      "name": "PostHog/posthog",
+      "stars": 40097,
+      "delta": 170,
+      "url": "https://github.com/PostHog/posthog",
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "name": "H-EmbodVis/TurboVLA",
+      "stars": 612,
+      "delta": 87,
+      "url": "https://github.com/H-EmbodVis/TurboVLA",
+      "description": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
+    },
+    {
+      "name": "baidu-baige/LoongForge",
+      "stars": 648,
+      "delta": 69,
+      "url": "https://github.com/baidu-baige/LoongForge",
+      "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models."
+    },
+    {
+      "name": "RadixRootMind/RadixQuantVLA",
+      "stars": 95,
+      "delta": 66,
+      "url": "https://github.com/RadixRootMind/RadixQuantVLA",
+      "description": "RadixQuantVLA is a unified, Lego-like framework for post-training quantization, benchmarking, and deployment   preparation of Vision-Language-Action models, integrating QuantVLA, Omega-QVLA, OpenVLA, UniVLA, StarVLA, GR00T, and   Pi0.5 routes with standardized launchers and validation on LIBERO benchmarks."
+    },
+    {
+      "name": "commaai/openpilot",
+      "stars": 63795,
+      "delta": 65,
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "stars": 11969,
+      "delta": 61,
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more."
+    },
+    {
+      "name": "autowarefoundation/autoware",
+      "stars": 12138,
+      "delta": 46,
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving"
+    },
+    {
+      "name": "AtsushiSakai/PythonRobotics",
+      "stars": 30618,
+      "delta": 34,
+      "url": "https://github.com/AtsushiSakai/PythonRobotics",
+      "description": "Python sample codes and textbook for robotics algorithms."
+    },
+    {
+      "name": "url-kaist/patchwork-plusplus",
+      "stars": 1101,
+      "delta": 31,
+      "url": "https://github.com/url-kaist/patchwork-plusplus",
+      "description": "Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22"
+    },
+    {
+      "name": "starVLA/starVLA",
+      "stars": 3752,
+      "delta": 25,
+      "url": "https://github.com/starVLA/starVLA",
+      "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing"
+    },
+    {
+      "name": "carla-simulator/carla",
+      "stars": 14452,
+      "delta": 23,
+      "url": "https://github.com/carla-simulator/carla",
+      "description": "Open-source simulator for autonomous driving research."
+    },
+    {
+      "name": "Stevee87/Tactical-Radar-System-ESP32-P4-elcrow-Display",
+      "stars": 77,
+      "delta": 23,
+      "url": "https://github.com/Stevee87/Tactical-Radar-System-ESP32-P4-elcrow-Display",
+      "description": "Tactical LiDAR + 24GHz mmWave radar sensor fusion on ESP32-P4 — 360° room mapping, proximity detection and cyberpunk HUD display."
+    },
+    {
+      "name": "sou350121/VLA-Handbook",
+      "stars": 672,
+      "delta": 20,
+      "url": "https://github.com/sou350121/VLA-Handbook",
+      "description": "本项目旨在为致力于进入VLA(Vision-Language-Action)领域的算法工程师提供一份全中文、实战导向的学习/面试手册。  不同于通用的 CV/NLP 面试指南，本项目聚焦于 Robotics 特有的挑战"
+    },
+    {
+      "name": "datawhalechina/dive-into-embodied-ai",
+      "stars": 527,
+      "delta": 17,
+      "url": "https://github.com/datawhalechina/dive-into-embodied-ai",
+      "description": "从零到一搭建一台具身智能机器人:深入强化学习、World-Model、VLA 等智能决策方法的工程落地,贯穿仿真环境、控制器、运动规划、感知系统等技能树模块,并在真实项目中跑通\"决策—控制—感知\"完整链路。"
+    },
+    {
+      "name": "happyhj/waymo-perception-studio",
+      "stars": 38,
+      "delta": 16,
+      "url": "https://github.com/happyhj/waymo-perception-studio",
+      "description": "Waymo Open Dataset on browser visualization tool"
+    },
+    {
+      "name": "microsoft/AirSim",
+      "stars": 18531,
+      "delta": 15,
+      "url": "https://github.com/microsoft/AirSim",
+      "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research"
+    },
+    {
+      "name": "ApolloAuto/apollo",
+      "stars": 26850,
+      "delta": 14,
+      "url": "https://github.com/ApolloAuto/apollo",
+      "description": "An open autonomous driving platform"
+    },
+    {
+      "name": "sunnypilot/sunnypilot",
+      "stars": 2127,
+      "delta": 14,
+      "url": "https://github.com/sunnypilot/sunnypilot",
+      "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible."
+    },
+    {
+      "name": "aditya-ramabadran/drivingbench_harness_v1",
+      "stars": 51,
+      "delta": 13,
+      "url": "https://github.com/aditya-ramabadran/drivingbench_harness_v1",
+      "description": "Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot + MCP tools."
+    },
+    {
+      "name": "emqx/emqx",
+      "stars": 16767,
+      "delta": 12,
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles"
+    },
+    {
+      "name": "FastCrest/reflex-vla",
+      "stars": 57,
+      "delta": 12,
+      "url": "https://github.com/FastCrest/reflex-vla",
+      "description": "Deploy any VLA model to any edge GPU with one command. Verified cos=+1.0 ONNX parity. Open source."
+    },
+    {
+      "name": "QwenLM/Qwen-Drive-1.0",
+      "stars": 487,
+      "delta": 11,
+      "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+      "description": "An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving"
+    },
+    {
+      "name": "VinRobotics/vla.cpp",
+      "stars": 213,
+      "delta": 11,
+      "url": "https://github.com/VinRobotics/vla.cpp",
+      "description": "A unified inference runtime for VLA models."
+    },
+    {
+      "name": "rpng/MINS",
+      "stars": 792,
+      "delta": 10,
+      "url": "https://github.com/rpng/MINS",
+      "description": "An efficient and robust multisensor-aided inertial navigation system with online calibration that is capable of fusing IMU, camera, LiDAR, GPS/GNSS, and wheel sensors. Use cases: VINS/VIO, GPS-INS, LINS/LIO, multi-sensor fusion for localization and mapping (SLAM). This repository also provides multi-sensor simulation and data."
+    },
+    {
+      "name": "kosuke55/drawtonomy",
+      "stars": 124,
+      "delta": 10,
+      "url": "https://github.com/kosuke55/drawtonomy",
+      "description": "Whiteboard for driving scenario diagrams"
+    },
+    {
+      "name": "open-h/data-collection",
+      "stars": 82,
+      "delta": 10,
+      "url": "https://github.com/open-h/data-collection",
+      "description": "Open-H-Embodiment is a community‑driven dataset initiative building the open, shared foundation needed to train and evaluate a generalist Vision‑Language‑Action (VLA) model for healthcare robotics"
+    },
+    {
+      "name": "jonyzhang2023/awesome-embodied-vla-va-vln",
+      "stars": 3564,
+      "delta": 9,
+      "url": "https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln",
+      "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches."
+    },
+    {
+      "name": "sylvestf/LIBERO-plus",
+      "stars": 469,
+      "delta": 9,
+      "url": "https://github.com/sylvestf/LIBERO-plus",
+      "description": "Official repository of LIBERO-plus, a generalized benchmark for in-depth robustness analysis of vision-language-action models."
+    },
+    {
+      "name": "ros-claw/rosclaw",
+      "stars": 81,
+      "delta": 9,
+      "url": "https://github.com/ros-claw/rosclaw",
+      "description": "The \"AUTOSAR + Android\" for Embodied AI. An OS-level framework bridging LLMs with high-frequency ROS/VLA control, enabling \"Write Once, Embody Anywhere\" robotics and autonomous data flywheels."
+    },
+    {
+      "name": "DravenALG/awesome-vla",
+      "stars": 70,
+      "delta": 9,
+      "url": "https://github.com/DravenALG/awesome-vla",
+      "description": "A Curated List of Vision-Language-Action (VLA) Research"
+    },
+    {
+      "name": "eclipse-sumo/sumo",
+      "stars": 4197,
+      "delta": 8,
+      "url": "https://github.com/eclipse-sumo/sumo",
+      "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation."
+    },
+    {
+      "name": "InternRobotics/InternNav",
+      "stars": 1129,
+      "delta": 8,
+      "url": "https://github.com/InternRobotics/InternNav",
+      "description": "InternRobotics' open platform for building generalized navigation foundation models."
+    },
+    {
+      "name": "allenai/vla-evaluation-harness",
+      "stars": 633,
+      "delta": 8,
+      "url": "https://github.com/allenai/vla-evaluation-harness",
+      "description": "One framework to evaluate any VLA model on any robot simulation benchmark."
+    },
+    {
+      "name": "autowarefoundation/autoware_vision_pilot",
+      "stars": 595,
+      "delta": 8,
+      "url": "https://github.com/autowarefoundation/autoware_vision_pilot",
+      "description": "Free self-driving car stack - fully open-source ADAS and autonomous driving system"
+    },
+    {
+      "name": "OpenDriveLab/UniAD",
+      "stars": 4774,
+      "delta": 7,
+      "url": "https://github.com/OpenDriveLab/UniAD",
+      "description": "[CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving"
+    },
+    {
+      "name": "ob-f/OpenBot",
+      "stars": 3516,
+      "delta": 7,
+      "url": "https://github.com/ob-f/OpenBot",
+      "description": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation."
+    },
+    {
+      "name": "hanruihua/ir-sim",
+      "stars": 1140,
+      "delta": 7,
+      "url": "https://github.com/hanruihua/ir-sim",
+      "description": "A  Python-based lightweight robot simulator designed for navigation, control, and learning"
+    },
+    {
+      "name": "louiszengCN/CarlaAir",
+      "stars": 1108,
+      "delta": 7,
+      "url": "https://github.com/louiszengCN/CarlaAir",
+      "description": "CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure for Air-Ground Embodied Intelligence"
+    },
+    {
+      "name": "EmbodiedMind/VLA-Diffusion-Policy-Robotics",
+      "stars": 787,
+      "delta": 7,
+      "url": "https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics",
+      "description": "Awesome collection of resources and papers on Diffusion Models for Robotic Manipulation."
+    },
+    {
+      "name": "ETS2LA/ETS2LA",
+      "stars": 757,
+      "delta": 7,
+      "url": "https://github.com/ETS2LA/ETS2LA",
+      "description": "Plugin based interface program for ETS2/ATS."
+    },
+    {
+      "name": "2toinf/X-VLA",
+      "stars": 740,
+      "delta": 7,
+      "url": "https://github.com/2toinf/X-VLA",
+      "description": "[ICLR 2026] The offical Implementation of \"Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model\""
+    },
+    {
+      "name": "ginwind/VLA-JEPA",
+      "stars": 598,
+      "delta": 7,
+      "url": "https://github.com/ginwind/VLA-JEPA",
+      "description": "VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model"
+    },
+    {
+      "name": "matssteinweg/Multi-Purpose-MPC",
+      "stars": 347,
+      "delta": 7,
+      "url": "https://github.com/matssteinweg/Multi-Purpose-MPC",
+      "description": "Multi-Purpose MPC for Reference Path Tracking, Time-Optimal Driving and Obstacle Avoidance"
+    },
+    {
+      "name": "H-EmbodVis/SimWAM",
+      "stars": 192,
+      "delta": 7,
+      "url": "https://github.com/H-EmbodVis/SimWAM",
+      "description": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving."
+    },
+    {
+      "name": "autonomousvision/lead",
+      "stars": 136,
+      "delta": 7,
+      "url": "https://github.com/autonomousvision/lead",
+      "description": "[CVPR 2026] A research framework for autonomous driving in CARLA, features TransFuser v6. Accompanies the paper \"LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving\""
+    },
+    {
+      "name": "NVlabs/alpasim",
+      "stars": 1252,
+      "delta": 6,
+      "url": "https://github.com/NVlabs/alpasim",
+      "description": "AlpaSim is an open-source autonomous vehicle simulation platform designed for development and testing of end-to-end AV policies"
+    },
+    {
+      "name": "autonomousvision/navsim",
+      "stars": 1116,
+      "delta": 6,
+      "url": "https://github.com/autonomousvision/navsim",
+      "description": "[CoRL '25] Pseudo-Simulation for Autonomous Driving; [NeurIPS '24] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking"
+    },
+    {
+      "name": "Fields2Cover/Fields2Cover",
+      "stars": 906,
+      "delta": 6,
+      "url": "https://github.com/Fields2Cover/Fields2Cover",
+      "description": "Robust and efficient coverage paths for autonomous agricultural vehicles.  A modular and extensible Coverage Path Planning library"
+    },
+    {
+      "name": "DriveVLA/OpenDriveVLA",
+      "stars": 820,
+      "delta": 6,
+      "url": "https://github.com/DriveVLA/OpenDriveVLA",
+      "description": "[AAAI 2026] OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model"
+    },
+    {
+      "name": "MizuhoAOKI/python_simple_mppi",
+      "stars": 813,
+      "delta": 6,
+      "url": "https://github.com/MizuhoAOKI/python_simple_mppi",
+      "description": "Python implementation of MPPI (Model Predictive Path-Integral) controller to understand the basic idea. Mandatory dependencies are numpy and matplotlib only."
+    }
+  ]
+}
